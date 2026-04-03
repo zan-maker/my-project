@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "data": {
+    "description": "",
+    "html": "<html><head><meta name=\"color-scheme\" content=\"light dark\"></head><body><pre style=\"word-wrap: break-word; white-space: pre-wrap;\"># Community Reply Assistant\n\n**Free, open-source tool that helps domain experts provide thoughtful, helpful answers to business questions on Reddit.**\n\n## The Problem\n\nEvery day, thousands of people on Reddit ask questions like:\n\n> \"What's the best tool for managing client invoices?\"\n> \"Has anyone tried [tool]? Is it worth it?\"\n> \"We're a 5-person team and can't figure out our workflow.\"\n\nThese questioners need **genuine, expert advice** — not self-promotional spam. But the people best qualified to help (fractional CFOs, business acquisition advisors, operations consultants) don't have time to manually monitor dozens of subreddits looking for questions they can answer.\n\n## The Public Good\n\nThis project solves that by:\n\n1. **Scanning relevant subreddits** for threads where people are asking for advice in specific domains (finance, operations, business strategy)\n2. **Scoring threads** by engagement and buying-intent signals to surface the most valuable conversations\n3. **Drafting helpful replies** that sound like a knowledgeable community member, not an ad\n4. **Sending a daily digest** so experts can review and post genuinely useful answers in minutes\n\nThe net effect is **better answers for Reddit users** and **reduced self-promotional noise** — because businesses that have an efficient way to contribute value tend to engage authentically rather than spamming.\n\n## How It Works\n\n- Monitors subreddits like r/smallbusiness, r/startups, r/Entrepreneur, r/SaaS, and more\n- Uses AI to detect buying-intent signals (comparing options, expressing frustration, asking for recommendations)\n- Scores each thread 0–100 based on engagement + relevance\n- Generates draft replies that follow Reddit etiquette (no company mentions, no links, no marketing language)\n- Delivers a daily email digest with the top opportunities\n\n## Tech Stack\n\n- **Next.js 16** with App Router\n- **TypeScript** throughout\n- **Prisma** (SQLite) for data storage\n- **Tailwind CSS** + **shadcn/ui** for the dashboard\n- **snoowrap** for Reddit API integration\n- **AI reply drafting** via LLM\n\n## Setup\n\n1. Clone the repo and install dependencies:\n   ```bash\n   git clone https://github.com/zan-maker/community-reply-assistant.git\n   cd community-reply-assistant\n   bun install\n   ```\n\n2. Copy `.env.example` to `.env` and fill in your credentials:\n   ```bash\n   cp .env.example .env\n   ```\n\n3. Create a Reddit app at https://www.reddit.com/prefs/apps (script type)\n\n4. Run the development server:\n   ```bash\n   bun run dev\n   ```\n\n## License\n\nMIT — free to use, modify, and distribute.\n</pre></body></html>",
+    "title": "",
+    "url": "https://raw.githubusercontent.com/zan-maker/community-reply-assistant/main/README.md",
+    "usage": {
+      "tokens": 629
+    }
+  },
+  "meta": {
+    "usage": {
+      "tokens": 629
+    }
+  },
+  "status": 20000
+}

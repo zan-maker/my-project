@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "data": {
+    "description": "",
+    "html": "<html><head><meta name=\"color-scheme\" content=\"light dark\"></head><body><pre style=\"word-wrap: break-word; white-space: pre-wrap;\"># Mineral Gateway\n\nStellar/Soroban-based critical minerals tracking and domestic-content attestation platform for US defense and industrial policy compliance.\n\n## Architecture\n\n- **Blockchain**: Stellar Mainnet\n- **Smart Contracts**: Soroban (Rust → WASM)\n- **Token Standard**: SEP-41 Token Interface\n- **Frontend**: React + TypeScript + Vite + Tailwind CSS\n- **SDK**: `@stellar/stellar-sdk`\n\n## Modules\n\n| Module | Description |\n|--------|-------------|\n| **Dashboard** | Real-time Stellar network status, supply chain overview, compliance metrics |\n| **Assets** | SEP-41 token management — mint, transfer, burn asset lots |\n| **Entities** | Registered supply chain participants with Stellar addresses and roles |\n| **Supply Chain** | Asset provenance graph from mine to battery pack |\n| **Compliance** | Policy attestations — domestic content %, allied origin %, FEOC checks |\n| **Events** | On-chain Soroban contract event log |\n\n## Stellar Integration\n\nThe `src/lib/stellar.ts` service layer provides:\n- Horizon API for ledger queries and transaction history\n- Soroban RPC for smart contract invocation\n- SEP-41 token operations (mint/transfer/burn)\n- Contract event streaming\n\n## Getting Started\n\n```bash\nnpm install\nnpm run dev\n```\n\n## Documentation\n\nSee `Mineral_Gateway_Stellar_Specification.docx` for the full technical specification.\n</pre></body></html>",
+    "title": "",
+    "url": "https://raw.githubusercontent.com/zan-maker/stellar-Metal-and-mineral-traceability-and-tokenization-platform/main/README.md",
+    "usage": {
+      "tokens": 345
+    }
+  },
+  "meta": {
+    "usage": {
+      "tokens": 345
+    }
+  },
+  "status": 20000
+}
