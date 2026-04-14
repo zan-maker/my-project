@@ -1,0 +1,24 @@
+# === DATABASE ===
+DATABASE_URL=file:/home/z/my-project/db/custom.db
+
+# === REDDIT API ===
+# Create an app at https://www.reddit.com/prefs/apps
+# Select "script" type, redirect URI: http://localhost
+REDDIT_CLIENT_ID=your_reddit_client_id_here
+REDDIT_CLIENT_SECRET=your_reddit_client_secret_here
+REDDIT_USERNAME=your_reddit_username_here
+REDDIT_PASSWORD=your_reddit_password_here
+
+# === SMTP EMAIL (e.g., Gmail App Password) ===
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=your_email@gmail.com
+SMTP_PASS=your_app_password_here
+
+# === ACTIAN VECTORAI DB ===
+VECTORAI_DB_URL=http://localhost:27832
+VECTORAI_COLLECTION=reddit_threads
+
+# === LOCAL EMBEDDING SERVER ===
+EMBEDDING_SERVER_URL=http://localhost:11434
+EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2

@@ -1,0 +1,77 @@
+services:
+  community-reply:
+    build: .
+    container_name: community-reply-assistant
+    restart: unless-stopped
+    depends_on:
+      - vectorai-db
+      - embedding-server
+    ports:
+      - "8080:8080"
+    volumes:
+      - app-data:/app/data
+      - app-env:/app/.env.local
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=file:/app/data/community-reply.db
+      - VECTORAI_DB_URL=http://vectorai-db:27832
+      - EMBEDDING_SERVER_URL=http://embedding-server:11434
+      - VECTORAI_COLLECTION=reddit_threads
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:8080"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+  # Actian VectorAI DB — Semantic vector search engine
+  # Ports: 27832 (API), 27839 (JDBC), 44223 (.NET), 16902 (Ingres/Net)
+  vectorai-db:
+    image: actian/vector:latest
+    container_name: vectorai-db
+    restart: unless-stopped
+    volumes:
+      - vector-data:/VectorVW/ingres/data
+      - vector-ckp:/VectorVW/ingres/ckp
+      - vector-jnl:/VectorVW/ingres/jnl
+      - vector-log:/VectorVW/ingres/log
+    ports:
+      - "27832:27832"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:27832/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  # Local embedding server (sentence-transformers/all-MiniLM-L6-v2)
+  embedding-server:
+    build:
+      context: .
+      dockerfile: Dockerfile.embedding
+    container_name: embedding-server
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    environment:
+      - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+volumes:
+  app-data:
+    driver: local
+  app-env:
+    driver: local
+  vector-data:
+    driver: local
+  vector-ckp:
+    driver: local
+  vector-jnl:
+    driver: local
+  vector-log:
+    driver: local
