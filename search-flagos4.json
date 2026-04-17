@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://modelers.csdn.net/697886877c1d88441d8ff56e.html",
+    "name": "奖金池200万元！FlagOS开放计算全球挑战赛邀您参赛！ - 魔乐社区",
+    "snippet": "赛道一考察算子底层实现与跨平台深度优化能力； · 赛道二考察全栈推理性能的极致挖掘与系统调优能力； · 赛道三考察长上下文场景中模型自动数据标注能力。 Missing: Modelscope Kaggle",
+    "host_name": "modelers.csdn.net",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/2003203433658851341",
+    "name": "一图读懂！ FlagOS 开放计算全球挑战赛·赛道二 - 知乎专栏",
+    "snippet": "本赛道不仅提供部分统一算力支持，也开放自备算力参赛，鼓励多样化的系统设计与实战验证。 期待每一位具备技术热情与实践能力的开发者，在这一开放、公平的 ... Missing: 大赛 三 自动 数据 标注 报名 Modelscope Kaggle CSDN",
+    "host_name": "zhuanlan.zhihu.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://flagos.csdn.net/activelist",
+    "name": "FlagOS智算系统软件栈- CSDN",
+    "snippet": "大会聚焦AI开放计算，重磅推出FlagOS系统软件栈。平台通过创新的AI系统软件核心技术，构建公开、开放、公平的全球算力池，旨在打破垄断，让开发者都能平等获取AI算力，加速实现 ... Missing: 道 标注 报名 Modelscope Kaggle",
+    "host_name": "flagos.csdn.net",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/1991296502061098321",
+    "name": "倒计时1天！众智FlagOS v1.6即将发布",
+    "snippet": "... 大赛，设置算子开发、大模型推理优化、自动数据标注三大核心赛道，旨在深度优化大模型性能与效率。 大赛于2026年1月9日开放注册，至2026年6月上旬发布 ... Missing: 报名 Modelscope Kaggle CSDN",
+    "host_name": "zhuanlan.zhihu.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.competehub.dev/zh/competitions/modelscope180",
+    "name": "FlagOS开放计算全球挑战赛- AI赛事通 - AI Competition Hub",
+    "snippet": "比赛设置了算子开发、大模型推理优化、自动数据标注三大核心赛道，面向AI算法与系统工程师、硬件与编译器开发者等，推动开放计算生态发展。 赛程安排. 报名阶段：2026年 ... Missing: Kaggle | Show results with: Kaggle\nFlagOS开放计算全球挑战赛. “FlagOS开放计算全球挑战赛”是众智FlagOS社区、北京智源人工智能研究院、CCF ODTC联合主办的综合性大赛，设置算子开发、大模型推理优化、自动数据标注三大核心赛道，旨在深度优化大模型性能与效率。 参与由modelscope举办的数据算法赛",
+    "host_name": "www.competehub.dev",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/1951746329182176466",
+    "name": "首届FlagOS开放计算开发者大会下周来袭，汇聚全球智慧共建AI+未来",
+    "snippet": "大会旨在推动“模型-系统-芯片”三层贯通，通过开源协作突破算力束缚，赋能人工智能可持续发展，构建真正开放、共享、创新的技术生态。 生态聚力：全产业力量 ... Missing: 赛 道 自动 数据 标注 Modelscope Kaggle",
+    "host_name": "zhuanlan.zhihu.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com/p/2013357078027191331",
+    "name": "FlagOS全球挑战赛：长上下文ICL自动化标注专项等你来战",
+    "snippet": "诚邀广大开发者、算法工程师与对此感兴趣的学生，基于Qwen3-4B 大模型和FlagScale 大模型开发框架，在统一的数据集评测标准下，探索长上下文ICL（语境学习）与自动化标注的性能 ... Missing: 计算 大赛 报名 Modelscope Kaggle",
+    "host_name": "zhuanlan.zhihu.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.csdn.net/qq_41610763/article/details/158738656",
+    "name": "最高3万奖金｜FlagOS全球挑战赛：长上下文ICL自动化标注专项等你来战-",
+    "snippet": "FlagOS 全球挑战赛的赛道三正在火热进行中，诚邀全球开发者基于 Qwen3-4B 特供模型与 FlagScale 框架，共同攻克超长文本标注瓶颈。 这不仅是一场最高 3 万元奖金的竞技，更是亲手为 AI 基础设施打下“立基”之战。 开源成果将收录至 OpenSeek 官方仓库。",
+    "host_name": "blog.csdn.net",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.modelscope.cn/models/FlagRelease/Qwen3.5-35B-A3B-FlagOS",
+    "name": "Qwen3.5-35B-A3B-FlagOS · Models - modelscope.cn",
+    "snippet": "ModelScope——汇聚各领域先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。 在这里，共建模型开源社区，发现、学习、定制和分享心仪的模型。",
+    "host_name": "www.modelscope.cn",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://flagos.net",
+    "name": "FlagOS",
+    "snippet": "FlagOS社区致力于打造统一、开源的系统软件栈，构建「模型-系统-芯片」三层贯通的开放技术生态，通过“一次开发跨芯迁移”释放硬件计算潜力，打破不同芯片软件栈之间生态隔离，有效降低开发者的迁移成本。",
+    "host_name": "flagos.net",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

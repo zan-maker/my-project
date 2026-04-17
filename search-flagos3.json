@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/track-3-llm-automatic-data-annotation-in-long-context-scenarios",
+    "name": "Track3: LLM Automatic Data Annotation | Kaggle",
+    "snippet": "Core Requirements: Teams must submit a complete technical ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/vllm-project/vllm/issues/36969",
+    "name": "[Bug]: Kimi-K2.5 output a single </think> tag in the content  - GitHub",
+    "snippet": "Hi, Kimi-K2.5 output a single tag in the content when \"enable_thinking\" is set to false. Docker run script: docker run -d \\ --gpus all \\ ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://jvndb.jvn.jp/search/index.php?mode=_vulnerability_search_IA_VulnSearch",
+    "name": "脆弱性対策情報データベース検索 - JVN iPedia",
+    "snippet": "脆弱性対策情報データベース.",
+    "host_name": "jvndb.jvn.jp",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.bentley.com/LiveContent/web/OpenPlant%20Modeler%20Help-v15/en/GUID-0808A975-19E6-E0F9-E378-F4021C60F269.html",
+    "name": "Overview of the iModel - Bentley Product Documentation",
+    "snippet": "An iModel is a container for rich, multi-discipline information published from known sources in a known state at a certain point in time. Each iModel is:.",
+    "host_name": "docs.bentley.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2510.19462v2",
+    "name": "AegisMCP: Online Graph Intrusion Detection for Tool-Augmented",
+    "snippet": "In this work, we study security of Model Context Protocol (MCP) agent toolchains and their applications in smart homes.",
+    "host_name": "arxiv.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://mirrors.sustech.edu.cn/pypi/simple",
+    "name": "Simple Index - SUSTech Open Source Mirrors",
+    "snippet": "bootstrap-budget · grestful · odoo12-addon-sale-order-invoicing-grouping-criteria · switchsources · classical-atlas",
+    "host_name": "mirrors.sustech.edu.cn",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://downloads.docs.servicenow.com/prbrn/enus/yokohama/prbs-x10.01-y11.00.csv",
+    "name": "https://downloads.docs.servicenow.com/prbrn/enus/y",
+    "snippet": "... Open any active case, problem, incident in CSM/FSM or Service Operations Workspace (SOW). 2. Insert text into the Internal Info (work notes) and Comments. 3 ...",
+    "host_name": "downloads.docs.servicenow.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net/pdf/2fb36b4a148839d9db48583a1939f2d7d0855593.pdf",
+    "name": "[PDF] Benchmarking and Rewarding Video Generation with Fine-Grained",
+    "snippet": "2.2.3 Data Annotation. After filtering the raw data, human annotators label the dataset using the annotation tool described in. Appendix A. Each annotation ...",
+    "host_name": "openreview.net",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.piwheels.org/simple",
+    "name": "Simple index - piwheels",
+    "snippet": "... automatic-poetry-invention pyscipopt-ml censorpy mimi-dbx-runner ... data-eval pyftc nuclei sqlchemistry odoo10-addon-base-user-role-company cloudshare ...",
+    "host_name": "www.piwheels.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com/2076-3417/16/3/1341",
+    "name": "Real-Time XR Maintenance Support Integrating Large Language",
+    "snippet": "The integration of historical maintenance records, sensor streams, and digital twin data enables dynamic fault diagnostics and RUL estimation, laying the ...",
+    "host_name": "www.mdpi.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
