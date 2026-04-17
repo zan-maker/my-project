@@ -1,0 +1,78 @@
+<!DOCTYPE html><html><head><style>
+html{background:#080B14;}
+body{width:720pt;height:405pt;margin:0;padding:0;overflow:hidden;font-family:'Trebuchet MS','Corbel','Microsoft YaHei',sans-serif;display:flex;flex-direction:column;}
+</style></head><body>
+<div style="width:720pt;height:56pt;background:#0D1320;display:flex;align-items:center;padding:0 48pt;">
+  <h2 style="font-size:22pt;font-weight:bold;color:#FFFFFF;margin:0;line-height:1.25;">How It Works: Technical Architecture</h2>
+</div>
+<div style="flex:1;display:flex;flex-direction:column;padding:16pt 48pt 20pt 48pt;gap:12pt;justify-content:center;">
+  <!-- Pipeline Row -->
+  <div style="display:flex;align-items:center;gap:8pt;justify-content:center;">
+    <div style="background:#162033;border-radius:8pt;padding:12pt 14pt;text-align:center;border:1pt solid rgba(0,245,160,0.3);width:120pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#00F5A0;">Raw Data</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.5);">JSON / CSV</span>
+    </div>
+    <span style="font-size:16pt;color:#00F5A0;">&#8594;</span>
+    <div style="background:#162033;border-radius:8pt;padding:12pt 14pt;text-align:center;border:1pt solid rgba(0,245,160,0.3);width:120pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#00F5A0;">ICL Selector</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.5);">Few-Shot Engine</span>
+    </div>
+    <span style="font-size:16pt;color:#00F5A0;">&#8594;</span>
+    <div style="background:#162033;border-radius:8pt;padding:12pt 14pt;text-align:center;border:1pt solid rgba(0,245,160,0.3);width:120pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#00F5A0;">Prompt Builder</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.5);">Task-Aware</span>
+    </div>
+    <span style="font-size:16pt;color:#00F5A0;">&#8594;</span>
+    <div style="background:rgba(0,245,160,0.12);border-radius:8pt;padding:12pt 14pt;text-align:center;border:1pt solid rgba(0,245,160,0.5);width:120pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#FFFFFF;">Qwen3-4B</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.6);">4-bit Quantized</span>
+    </div>
+  </div>
+  <!-- Core Engine Box -->
+  <div style="background:rgba(0,245,160,0.06);border:1.5pt solid rgba(0,245,160,0.25);border-radius:10pt;padding:16pt 20pt;">
+    <span style="font-size:14pt;font-weight:bold;color:#00F5A0;">Inference Engine</span>
+    <div style="display:flex;gap:12pt;margin-top:10pt;">
+      <div style="flex:1;background:rgba(255,255,255,0.04);border-radius:6pt;padding:10pt;text-align:center;">
+        <span style="font-size:11pt;font-weight:bold;color:#FFFFFF;">Chain-of-Thought</span><br/>
+        <span style="font-size:10pt;color:rgba(255,255,255,0.5);">Step-by-step reasoning for each label decision</span>
+      </div>
+      <div style="flex:1;background:rgba(255,255,255,0.04);border-radius:6pt;padding:10pt;text-align:center;">
+        <span style="font-size:11pt;font-weight:bold;color:#FFFFFF;">Multi-Temp Runs</span><br/>
+        <span style="font-size:10pt;color:rgba(255,255,255,0.5);">3+ inference passes with varied temperature</span>
+      </div>
+      <div style="flex:1;background:rgba(255,255,255,0.04);border-radius:6pt;padding:10pt;text-align:center;">
+        <span style="font-size:11pt;font-weight:bold;color:#FFFFFF;">Majority Vote</span><br/>
+        <span style="font-size:10pt;color:rgba(255,255,255,0.5);">Self-consistency aggregation for robust outputs</span>
+      </div>
+    </div>
+  </div>
+  <!-- Output Row -->
+  <div style="display:flex;align-items:center;gap:8pt;justify-content:center;">
+    <div style="background:#162033;border-radius:8pt;padding:10pt 16pt;text-align:center;width:160pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#A855F7;">Label Extractor</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.5);">Structured output parsing</span>
+    </div>
+    <span style="font-size:16pt;color:#A855F7;">&#8594;</span>
+    <div style="background:#162033;border-radius:8pt;padding:10pt 16pt;text-align:center;width:160pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#A855F7;">Confidence Scorer</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.5);">Calibration &amp; quality metrics</span>
+    </div>
+    <span style="font-size:16pt;color:#A855F7;">&#8594;</span>
+    <div style="background:rgba(168,85,247,0.12);border-radius:8pt;padding:10pt 16pt;text-align:center;border:1pt solid rgba(168,85,247,0.4);width:160pt;">
+      <span style="font-size:12pt;font-weight:bold;color:#FFFFFF;">Export (CSV/JSON)</span><br/>
+      <span style="font-size:10pt;color:rgba(255,255,255,0.6);">Production-ready output</span>
+    </div>
+  </div>
+  <div style="display:flex;gap:12pt;margin-top:4pt;justify-content:center;">
+    <div style="background:rgba(255,94,58,0.1);border:1pt solid rgba(255,94,58,0.3);border-radius:6pt;padding:6pt 14pt;text-align:center;">
+      <span style="font-size:10pt;color:rgba(255,255,255,0.6);">Memory: </span><span style="font-size:10pt;font-weight:bold;color:#FF5E3A;">2-3 GB VRAM</span>
+    </div>
+    <div style="background:rgba(255,94,58,0.1);border:1pt solid rgba(255,94,58,0.3);border-radius:6pt;padding:6pt 14pt;text-align:center;">
+      <span style="font-size:10pt;color:rgba(255,255,255,0.6);">Speed: </span><span style="font-size:10pt;font-weight:bold;color:#FF5E3A;">3-8 sec / annotation</span>
+    </div>
+    <div style="background:rgba(255,94,58,0.1);border:1pt solid rgba(255,94,58,0.3);border-radius:6pt;padding:6pt 14pt;text-align:center;">
+      <span style="font-size:10pt;color:rgba(255,255,255,0.6);">Accuracy: </span><span style="font-size:10pt;font-weight:bold;color:#FF5E3A;">85-95% agreement</span>
+    </div>
+  </div>
+</div>
+</body></html>
