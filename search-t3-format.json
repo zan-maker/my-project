@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/track1-operator-development-and-optimization-flagos-challenge/discussion/681442",
+    "name": "Track1 : LLM Operator Development and Optimization",
+    "snippet": "... sample_submission . csv in the competition data to reference the expected format . I've confirmed the columns should be ID and Predicted (from error messages) ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/data-science/predicting-metadata-for-humanitarian-datasets-with-llms-part-2-an-alternative-to-fine-tuning-953a49c657cf",
+    "name": "Predicting metadata for humanitarian datasets with LLMs",
+    "snippet": "In this article we revisit a previous analysis “Predicting Metadata of Humanitarian Datasets with GPT 3” to see how advances in the last 18 months open the way.",
+    "host_name": "medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2405.12081v1",
+    "name": "These Data Should Be Triaged to Experts for Annotation",
+    "snippet": "May 20, 2024 — This section presents a comparison of the annotation quality of SANT with LLM -based automatic methods and semi- automatic methods. The ...",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://towardsdatascience.com/an-llm-based-workflow-for-automated-tabular-data-validation",
+    "name": "An LLM-Based Workflow for Automated Tabular Data",
+    "snippet": "Apr 14, 2025 — This article is part of a series of articles on automating data cleaning for any tabular dataset: Effortless Spreadsheet Normalisation With ...",
+    "host_name": "towardsdatascience.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mTVNE0Sw5vI",
+    "name": "Automating Data Annotation with LLMs // LLMs in Production",
+    "snippet": "Abstract This talk dives into using Large Language Models (LLMs) for data annotation automation . We'll cover techniques and workflows to run ...",
+    "host_name": "www.youtube.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org/2025.wasp-main.2.pdf",
+    "name": "Overview of TRACS: the Telescope Reference and",
+    "snippet": "2025 · Cited by 6 — submitted predictions as a single CSV file named. 8. Page 5. sample_submission . csv with the following col- umn headers: Id,telescope,science ... 11 pages\nsubmitted predictions as a single CSV file named. 8. Page 5. sample_submission.csv with the following col- umn headers: Id,telescope,science ...",
+    "host_name": "aclanthology.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/eraikako/text-classification-techniques-explained",
+    "name": "Text Classification Techniques - Explained",
+    "snippet": "Text classification consists in categorizing a text passage into several predefined labels. It is one of the most useful natural language processing (NLP) ...",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2402.13446v2",
+    "name": "Large Language Models for Data Annotation: A Survey",
+    "snippet": "Jun 23, 2024 — This survey delves into the nuances of using LLMs for data annotation , exploring methodologies, utilizing strategies, and associated challenges.",
+    "host_name": "arxiv.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/jtrotman/the-garden-of-forking-paths",
+    "name": "The Garden of Forking Paths",
+    "snippet": "The story describes a book in which different versions of reality play out with people swapping roles between them.",
+    "host_name": "www.kaggle.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2402.13446v1",
+    "name": "Large Language Models for Data Annotation: A Survey",
+    "snippet": "Feb 21, 2024 — This survey delves into the nuances of using LLMs for data annotation , exploring methodologies, learning strategies, and associated challenges in this ...",
+    "host_name": "arxiv.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

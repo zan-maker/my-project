@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/track-3-llm-automatic-data-annotation-in-long-context-scenarios",
+    "name": "Track3: LLM Automatic Data Annotation",
+    "snippet": "1. File name format : Technical_Report-[Team_Name]. · 2. PDF format , at least 5 pages · 1. Prompt and instruction ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://huggingface.co/FlagRelease/Qwen3-4B-FlagOS-Ascend",
+    "name": "FlagRelease/Qwen3-4B-FlagOS-Ascend",
+    "snippet": "FlagScale is an end-to-end framework for large models across heterogeneous computing resources, maximizing computational efficiency and ensuring model validity ...\nFlagScale is an end-to-end framework for large models across heterogeneous computing resources, maximizing computational efficiency and ensuring model validity ... Missing: context | Show results with: context",
+    "host_name": "huggingface.co",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/flagos-ai/FlagScale/blob/main/examples/qwen3/conf/train/235b_a22b.yaml",
+    "name": "FlagScale/examples/qwen3/conf/train/235b_a22b.yaml at main",
+    "snippet": "flagos-ai/FlagScale. Missing: track3 context annotation",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qz5uww/qwen3_coder_next_as_first_usable_coding_model_60",
+    "name": "Qwen3 Coder Next as first \"usable\" coding model < 60 GB for me",
+    "snippet": "I'm using the Q8_0 quant of Qwen3-Coder-Next with ~100k context window with Cline. ... Of course its long context handling is far from perfect, ... Qwen3-Next: Did a quant with extended context - Reddit How is qwen3 4b this good? : r/LocalLLaMA - Reddit More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2505.09388v1",
+    "name": "Qwen3 Technical Report - arXiv",
+    "snippet": "Finally, in the third stage, the model is trained on long-context data to increase its maximum context length from 4,096 to 32,768 tokens.",
+    "host_name": "arxiv.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://unsloth.ai/blog/qwen3",
+    "name": "Run & Fine-tune Qwen3 - Unsloth",
+    "snippet": "This means, you can run and fine-tune quantized Qwen3 LLMs with minimal accuracy loss! We also uploaded Qwen3 with native 128K context length.",
+    "host_name": "unsloth.ai",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Qwen3_(4B)-Instruct.ipynb",
+    "name": "Qwen3_(4B)-Instruct.ipynb - Colab - Google",
+    "snippet": "Ultra Long-Context Reinforcement Learning is here with 7x more context windows! ... learning_rate = 2e-4, # Reduce to 2e-5 for long training runs",
+    "host_name": "colab.research.google.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://huggingface.co/Qwen/Qwen3-4B",
+    "name": "Qwen/Qwen3-4B - Hugging Face",
+    "snippet": "Processing Long Texts. Qwen3 natively supports context lengths of up to 32,768 tokens. For conversations where the total length (including ... Missing: FlagOS data annotation FlagScale",
+    "host_name": "huggingface.co",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.modelscope.cn/models/FlagRelease/Qwen3-4B-FlagOS-Iluvatar",
+    "name": "ModelScope模型库-Qwen3-4B-FlagOS-Iluvatar",
+    "snippet": "FlagScale is an end-to-end framework for large models across multiple chips, maximizing computational resource efficiency while ensuring model effectiveness. It ...",
+    "host_name": "www.modelscope.cn",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://apxml.com/models/qwen3-4b",
+    "name": "Qwen3-4B: Specifications and GPU VRAM Requirements",
+    "snippet": "Qwen3-4B. Qwen3-4B is a 4-billion parameter dense causal language model developed by Alibaba, belonging to the third generation of the Qwen series.",
+    "host_name": "apxml.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

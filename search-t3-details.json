@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.reddit.com/r/WFHJobs/comments/135xojm/is_data_annotation_a_scam",
+    "name": "Is Data Annotation a scam? : r/WFHJobs",
+    "snippet": "It's definitely not a scam! I have been working for them for a couple of months now and made a couple thousand bucks. They test and train all kinds of AI .",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/modelcontextprotocol/inspector",
+    "name": "modelcontextprotocol/inspector: Visual testing tool for MCP",
+    "snippet": "The inspector runs both an MCP Inspector (MCPI) client UI (default port 6274) and an MCP Proxy (MCPP) server (default port 6277).",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://eugeneyan.com/writing/qa-evals",
+    "name": "Evaluating Long-Context Question & Answer Systems",
+    "snippet": "In this write-up, we'll explore key evaluation metrics, how to build evaluation datasets, and methods to assess Q&A performance through human annotations and ...",
+    "host_name": "eugeneyan.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2509.14030v1",
+    "name": "Multi-Agent Managed Multi-Source Annotation System",
+    "snippet": "Sep 17, 2025 — Inspired by real-world crowdsourcing companies, we introduce CrowdAgent, a multi-agent system that provides end-to-end process control by ...",
+    "host_name": "arxiv.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167739X20329927",
+    "name": "FLAGS: A methodology for adaptive anomaly detection and",
+    "snippet": "2021 · Cited by 147 — In this paper, we introduce FLAGS , the Fused-AI interpretabLe Anomaly Generation System, and combine both techniques in one methodology to overcome their ...",
+    "host_name": "www.sciencedirect.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10876157.pdf",
+    "name": "An Auto-Annotation Approach for Object Detection and",
+    "snippet": "2025 · Cited by 3 — The act of identifying unstructured data and adding context to it so that machine learning models have context referred to as data annotation . 12 pages",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kili-technology.com/blog/data-labeling-and-large-language-models-training",
+    "name": "Data Labeling and Large Language Models Training",
+    "snippet": "The labeling process should include validation steps to confirm the accuracy of the annotations required at each stage. Context understanding (and long - context ...",
+    "host_name": "kili-technology.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://deepeval.com/docs/getting-started",
+    "name": "Quick Introduction | DeepEval by Confident AI - The LLM",
+    "snippet": "Any metrics supplied to @observe allows ...",
+    "host_name": "deepeval.com",
+    "rank": 7,
+    "date": "Apr 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.taskmonk.ai/blogs/best-data-annotation-tools-generative-ai",
+    "name": "Best Data Annotation Tools for Generative AI in 2026",
+    "snippet": "Feb 5, 2026 — Discover the best data annotation tools for generative AI in 2026. Compare Taskmonk, Scale AI, Sagemaker ground truth, Labelbox, ...",
+    "host_name": "www.taskmonk.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://imerit.net/resources/blog/pre-labeling-automation-accelerating-ai-annotation-with-smarter-first-drafts",
+    "name": "Pre-Labeling Automation: Accelerating AI Annotation with",
+    "snippet": "Pre-labeling automation refers to the use of machine learning models, rule-based systems, or domain-specific algorithms to generate initial annotations on raw ...",
+    "host_name": "imerit.net",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
