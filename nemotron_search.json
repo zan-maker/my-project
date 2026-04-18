@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/overview",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge | Kaggle",
+    "snippet": "Develop techniques that improve reasoning accuracy using NVIDIA Nemotron models. Participants will experiment with prompting, data pipelines, and lightweight ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/rules",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge - Kaggle",
+    "snippet": "Your Submissions will be scored based on the evaluation metric described on the Competition Website. Subject to compliance with the Competition Rules, Prizes, ... Missing: 2026 | Show results with: 2026",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge | Kaggle",
+    "snippet": "NVIDIA Nemotron Model Reasoning Challenge. Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark. Join Competition. more_horiz ... Missing: 2026 | Show results with: 2026",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/681820",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge - Kaggle",
+    "snippet": "This competition provides an NVIDIA RTX PRO 6000 Blackwell GPU. When trying to fine-tune the Nemotron model with LoRA, you may encounter the following error ...",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/data",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge - Kaggle",
+    "snippet": "This dataset comprises a collection of logical reasoning puzzles requiring the identification and application of underlying transformation rules. Missing: 2026 | Show results with: 2026",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/nvidia-nemotron-model-reasoning-challenge",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge - Kaggle",
+    "snippet": "This notebook presents a structured and in-depth exploratory data analysis of the NVIDIA Nemotron Model Reasoning Challenge dataset hosted ... Missing: 2026 | Show results with: 2026",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/688461",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge - Kaggle",
+    "snippet": "Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark. Missing: 2026 | Show results with: 2026",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/688360",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge - Kaggle",
+    "snippet": "Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark. Missing: 2026 evaluation",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron",
+    "name": "NVIDIA Nemotron",
+    "snippet": "The NVIDIA Nemotron family of multimodal models delivers agentic reasoning for graduate-level science, advanced math, and visual understanding.",
+    "host_name": "www.nvidia.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/ibrahimqasmi313_nvidia-just-launched-a-new-kaggle-competition-activity-7439958826356744192-8YB-",
+    "name": "Muhammad Ibrahim Qasmi's Post - LinkedIn",
+    "snippet": "The competition is called \"NVIDIA Nemotron Model Reasoning Challenge.\" Here is the setup: You get a base model: Nemotron-3-Nano-30B. Your ...",
+    "host_name": "www.linkedin.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/gemma-4-good-hackathon/overview",
+    "name": "The Gemma 4 Good Hackathon",
+    "snippet": "2 Apr 2026 — These prizes are awarded to the best overall projects that demonstrate exceptional vision, technical execution, and potential for real - world ...\nLeverage local frontier intelligence, native function calling, and multimodal understanding to tackle the issues that affect your community.",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sudhamsr.medium.com/the-gemma-4-good-hackathon-aef927f17ef1",
+    "name": "The Gemma 4 Good Hackathon. by - Sudha Rani Maddala",
+    "snippet": "The Gemma 4 Good Hackathon is a Kaggle-hosted competition focused on building impact -driven AI applications using Gemma 4 models. The goal is ...\nStrong example ideas: offline clinical intake assistant; multilingual patient explanation tool; biomedical literature assistant for researchers ...\n3) Function calling / tool use. Your system can route tasks intelligently: retrieval; summarization; classification; formatting; translation ...",
+    "host_name": "sudhamsr.medium.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.analyticsvidhya.com/blog/2026/04/top-gemma-4-projects-will-blow-your-mind",
+    "name": "Top 10 Gemma 4 Projects That Will Blow Your Mind",
+    "snippet": "1. Run Claude Code with Gemma 4 for Free · 2. Run Gemma 4 on an iPhone, Completely Offline · 3.\n1. Run Claude Code with Gemma 4 for Free · 2. Run Gemma 4 on an iPhone, Completely Offline · 3. Run Gemma 4 on a Nintendo Switch · 4. Use Gemma 4 ...",
+    "host_name": "www.analyticsvidhya.com",
+    "rank": 2,
+    "date": "Apr 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/ambitionarena7/comments/1scb907/the_gemma_4_good_hackathon_build_ai_that_actually",
+    "name": "The Gemma 4 Good Hackathon - Build AI That Actually",
+    "snippet": "Leverage multimodal AI, function calling, and agentic workflows to create intelligent, scalable systems. Focus Areas (Choose Your Impact Zone).\nLeverage multimodal AI, function calling, and agentic workflows to create intelligent, scalable systems ... Tools, trends, and real projects.",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ai.google.dev/gemma/docs/capabilities/text/function-calling-gemma4",
+    "name": "Function calling with Gemma 4 | Google AI for Developers",
+    "snippet": "8 Apr 2026 — In a real application, you should implement a secure way to # map function names to actual function calls , such as a predefined # dictionary ...\nImportant: A Gemma model cannot execute code on its own. When you generate code with function calling, you must run the generated code yourself ... Missing: hackathon projects\nThe system automatically generates the required JSON schema by parsing the function's type hints, arguments, and docstrings. For best results, ... Missing: hackathon projects",
+    "host_name": "ai.google.dev",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/googleai/hacking-with-multimodal-gemma-4-in-ai-studio-3had",
+    "name": "Hacking with multimodal Gemma 4 in AI Studio",
+    "snippet": "4 Apr 2026 — You can prototype with the Gemini API, and eventually run it anywhere from a local rig to your own cloud infrastructure. The benchmarks are also ...",
+    "host_name": "dev.to",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ST9mJuTnFqU",
+    "name": "I gave a Gemma 4 AI agent a sandbox and it taught itself",
+    "snippet": "Watching Gemma 4 reason through physics to code a bouncing ball animation from scratch was wild! Which demo stood out to you - the offline ...\nGemma 4 → · Gemma 4 in Google Cloud → · Deploy Gemma 4 in Cloud Run → · Can an open source model running entirely offline on a smartphone ... Missing: projects examples",
+    "host_name": "www.youtube.com",
+    "rank": 6,
+    "date": "Apr 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/gemma-4-good-hackathon/discussion/687467",
+    "name": "The Gemma 4 Good Hackathon",
+    "snippet": "1. Assistive Tech for the Visually Impaired · 2. Skin Health Tracking · 3. Voice-Controlled Computing.",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4",
+    "name": "Gemma 4: Byte for byte, the most capable open models",
+    "snippet": "2 Apr 2026 — Gemma 4 : our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.\nBuilt from the same world-class research and technology as Gemini 3, Gemma 4 is the most capable model family you can run on your hardware. Missing: hackathon examples",
+    "host_name": "blog.google",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4",
+    "name": "Bring state-of-the-art agentic skills to the edge with Gemma 4",
+    "snippet": "2 Apr 2026 — Today, Google DeepMind launched Gemma 4 , a family of state-of-the-art open models that redefine what is possible on your own hardware.\nToday, Google DeepMind launched Gemma 4, a family of state-of-the-art open models that redefine what is possible on your own hardware. Missing: hackathon | Show results with: hackathon",
+    "host_name": "developers.googleblog.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

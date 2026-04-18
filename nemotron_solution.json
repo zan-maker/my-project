@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "Develop techniques that improve reasoning accuracy using NVIDIA Nemotron models. Participants will experiment with prompting , data pipelines, and lightweight ...\nParticipants will experiment with prompting, data pipelines, and lightweight fine-tuning while evaluating their approaches on a new reasoning benchmark ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/nvidia-nemotron-model-reasoning-challenge",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "29 Mar 2026 — This notebook presents a structured and in-depth exploratory data analysis of the NVIDIA Nemotron Model Reasoning Challenge dataset hosted ...\nMar 29, 2026 — By the end of this analysis, we will have a thorough understanding of the data that directly informs how to structure a LoRA fine - tuning run for ...",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/688360",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "6 Apr 2026 — The goal of the competition is to see how people manage to fine tune Nemotron model. The pipelines are more interesting to us than the ...\nApr 6, 2026 — The goal of the competition is to see how people manage to fine tune Nemotron model . The pipelines are more interesting to us than the ...",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/690161",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "10 Apr 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.\nIt gives the model a question and says \"write your answer from scratch.\" The model has to generate a full response one token at a time, token 1, ...\nApr 10, 2026 — Think of SFT (Supervised Fine - Tuning ) like a student studying with the answer key right next to them. The model (student) sees the full ...",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/689915",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "10 Apr 2026 — Solution approach . There are seven categories of problems. I describe my approach to solving these problems, in increasing order of difficulty.\nSolution approach. There are seven categories of problems. I describe my approach to solving these problems, in increasing order of difficulty. Missing: prompting | Show results with: prompting\nApr 10, 2026 — Solution approach . There are seven categories of problems. I describe my approach to solving these problems, in increasing order of difficulty.",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/data",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "This dataset comprises a collection of logical reasoning puzzles requiring the identification and application of underlying transformation rules.\nprompt - The puzzle description, including input-output examples and the specific instance to be solved. answer - The ground truth solution for the puzzle. Missing: approach | Show results with: approach",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/686839",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "3 Apr 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2604.01152v1",
+    "name": "Brainstacks: Cross-Domain Cognitive Capabilities via",
+    "snippet": "1 Apr 2026 — Parameter-efficient fine - tuning methods like LoRA (Hu et al., 2022) reduce training cost but do not address modularity. Mixture-of-Experts ...",
+    "host_name": "arxiv.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/687119",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "2 Apr 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.",
+    "host_name": "www.kaggle.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://luma.com/5ugsphtp",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "​​This challenge will invite you to develop techniques that improve reasoning accuracy, evaluated using Nemotron models and a new reasoning benchmark developed ...",
+    "host_name": "luma.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

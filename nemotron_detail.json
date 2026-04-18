@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "Develop techniques that improve reasoning accuracy using NVIDIA Nemotron models . Participants will experiment with prompting, data pipelines, and lightweight ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/nvidia-nemotron-model-reasoning-challenge",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "29 Mar 2026 — The dataset consists of two files — train.csv and test.csv. The training file contains a unique identifier, the full puzzle prompt including ... Read more\nThis notebook presents a structured and in-depth exploratory data analysis of the NVIDIA Nemotron Model Reasoning Challenge dataset hosted ...\n29 Mar 2026 — The dataset consists of two files — train.csv and test.csv . The training file contains a unique identifier, the full puzzle prompt including ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/689915",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "10 Apr 2026 — I am testing on what the model has trained on. This explains why the training set solve rate is higher than my leaderboard submission . Read more\nThe temperature in the leaderboard evaluation metric is 0.0. This means I just need to get the most likely token correct. My training objective ...\n10 Apr 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/rules",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "Your Submissions will be scored based on the evaluation metric described on the Competition Website. Subject to compliance with the Competition Rules, Prizes, ... Read more\nEach Submission will be scored and/or ranked by the evaluation metric, or Evaluation Rubric (in the case of Hackathon Competitions),stated on the Competition ...",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/687798",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "4 Apr 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.\nHi everyone,. Recently, there was an update to the evaluation metric that fixed a bug that was causing binary answers to match as floats ...\n4 Apr 2026 — NVIDIA Nemotron Model Reasoning Challenge . Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark. Join ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/ryanholbrook/nvidia-nemotron-submission-demo",
+    "name": "NVIDIA Nemotron Submission Demo",
+    "snippet": "24 Mar 2026 — Explore and run AI code with Kaggle Notebooks | Using data from multiple data sources.",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/684212",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "24 Mar 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.\n24 Mar 2026 — If you see, the problems categorizes nicely into 6 (or 7) formats . Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/data",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "This dataset comprises a collection of logical reasoning puzzles requiring the identification and application of underlying transformation rules. Read more\nThis dataset comprises a collection of logical reasoning puzzles requiring the identification and application of underlying transformation rules. Missing: metric | Show results with: metric",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "NVIDIA Nemotron Model Reasoning Challenge . Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark. Join Competition. more_horiz ... Read more\nNVIDIA Nemotron Model Reasoning Challenge. Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark. Join Competition. more_horiz ...",
+    "host_name": "www.kaggle.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge/discussion/688360",
+    "name": "NVIDIA Nemotron Model Reasoning Challenge",
+    "snippet": "6 Apr 2026 — Advance reasoning techniques using NVIDIA Nemotron open models on a novel benchmark.",
+    "host_name": "www.kaggle.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
