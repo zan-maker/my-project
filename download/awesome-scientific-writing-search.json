@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://github.com/writing-resources/awesome-scientific-writing",
+    "name": "writing-resources/awesome-scientific-writing: :keyboard",
+    "snippet": "Awesome Scientific writing can extend beyond LaTeX , made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/writing-resources/awesome-scientific-writing/blob/main/README.md",
+    "name": "awesome-scientific-writing/README.md at main",
+    "snippet": "Scientific writing can extend beyond LaTeX , made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks. means ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/InternScience/Awesome-Scientific-Skills",
+    "name": "InternScience/Awesome-Scientific-Skills: An open, curated",
+    "snippet": "We open-sourced Skiller — an automated tool that turns conversation logs or plain-text requirements into standards-compliant skill packages.",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/ashwinvis",
+    "name": "Ashwin V. Mohanan ashwinvis",
+    "snippet": "... awesome-scientific-writing writing-resources/awesome-scientific-writing Public. ⌨️ A curated list of awesome tools, demos and resources to go beyond LaTeX.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md",
+    "name": "hermes-agent - skills - research - research-paper-writing",
+    "snippet": "5 days ago — Strong baselines are what separates accepted papers from rejected ones. Reviewers will ask: \"Did they compare against X?\" Standard baseline ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]
