@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/blog/introducing-the-benchmarks-resource-grant-program",
+    "name": "Introducing the Benchmarks Resource Grant Program | Kaggle",
+    "snippet": "We are excited to announce an expansion to our research grants program: Benchmark Resource Grants. Missing: form submit proposal 2025",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/kaggle/comments/1sf3dji/introducing_the_benchmarks_resource_grant_program",
+    "name": "Introducing the Benchmarks Resource Grant Program : r/kaggle",
+    "snippet": "Benchmarks Resource Grants: High compute, access to leading AI models, and managed infrastructure to build and host reproducible benchmarks. Missing: form submit 2025",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/kaggle_introducing-the-benchmarks-resource-grant-activity-7447340442217721857-4UDo",
+    "name": "Introducing the Benchmarks Resource Grant Program | Kaggle",
+    "snippet": "As progress in LLMs accelerates, the need for rigorous, reproducible evaluation has never been more important. It can be challenging to get ... Missing: form 2025",
+    "host_name": "www.linkedin.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/docs/benchmarks",
+    "name": "Benchmarks - Kaggle",
+    "snippet": "Kaggle seeks to be the home of a diverse ecosystem of high quality benchmarks assessing model capabilities on tasks of significant importance to the industry. Missing: grant form proposal",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions",
+    "name": "Competitions and Hackathons - Kaggle",
+    "snippet": "$3,000. 7 months to go. Didn't find what you were looking for? Explore all competitions. Learn about Community Competitions · Apply for a Grant. Missing: proposal | Show results with: proposal",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "Apr 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Kaggle: The World's AI Proving Ground",
+    "snippet": "Benchmark Research Grants. Blog. Apply for compute and infrastructure support for novel research benchmarks. Measuring progress toward AGI - Cognitive ... Missing: form | Show results with: form",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/blog/announcing-kaggle-benchmarks",
+    "name": "Introducing Kaggle Benchmarks",
+    "snippet": "Kaggle is thrilled to announce the launch of Kaggle Benchmarks, our new platform that makes AI evaluation accessible to everyone, ... Missing: grant form",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks",
+    "name": "NeurIPS 2025 Datasets & Benchmarks Track Call for Papers",
+    "snippet": "The NeurIPS Datasets and Benchmarks track serves as a venue for high-quality publications on highly valuable machine learning datasets and benchmarks. Missing: proposal | Show results with: proposal",
+    "host_name": "neurips.cc",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/bipoc-grant-application",
+    "name": "Kaggle BIPOC Grant Application",
+    "snippet": "Kaggle is offering a BIPOC (Black, Indigenous, People of Color) Grant aimed at empowering data scientists who have been historically underrepresented. Missing: form submit",
+    "host_name": "www.kaggle.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kdd2026.kdd.org/datasets-and-benchmarks-track-call-for-papers",
+    "name": "Datasets and Benchmarks Track: Call for Papers - KDD 2026",
+    "snippet": "We seek contributions that introduce novel datasets, propose new benchmarks, or offer tools and methodologies for dataset creation, curation, and evaluation.",
+    "host_name": "kdd2026.kdd.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

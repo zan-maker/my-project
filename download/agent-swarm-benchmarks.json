@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.nature.com/articles/s41598-026-42158-y",
+    "name": "Evaluating routing stability and coordination in swarm-",
+    "snippet": "2026 · Cited by 1 — AgentBench proposed a multi -environment benchmark to assess LLM agents in interactive settings, reflecting a broader push toward standardized, ... Read more",
+    "host_name": "www.nature.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.openlayer.com/blog/post/multi-agent-system-architecture-guide",
+    "name": "Multi-Agent Architecture Guide (March 2026)",
+    "snippet": "Mar 9, 2026 — This guide covers supervisor, hierarchical, peer-to-peer, blackboard, and swarm patterns with the exact task characteristics that make each one ... Read more",
+    "host_name": "www.openlayer.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2601.03328v1",
+    "name": "LLM-Enabled Multi-Agent Systems: Empirical Evaluation",
+    "snippet": "Jan 6, 2026 — [ lin2024llm ] propose a MAS framework for code generation, where agents act as domain experts across different stages of the development ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aimultiple.com/agentic-frameworks",
+    "name": "Top 5 Open-Source Agentic AI Frameworks in 2026",
+    "snippet": "Mar 30, 2026 — Swarm is a lightweight, experimental multi-agent framework for prototyping. Agents work sequentially through handoffs, transferring tasks while ... Read more",
+    "host_name": "aimultiple.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://galileo.ai/blog/agent-evaluation-framework-metrics-rubrics-benchmarks",
+    "name": "Agent Evaluation Framework 2026: Metrics, Rubrics &",
+    "snippet": "Feb 14, 2026 — Build agent evaluation frameworks with trajectory metrics, hierarchical rubrics, and LLM -as-judge systems. Reduce debugging time from hours ...",
+    "host_name": "galileo.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.intuz.com/blog/top-5-ai-agent-frameworks-2025",
+    "name": "Top 5 AI Agent Frameworks in 2026 — Compared for SMBs",
+    "snippet": "Apr 2, 2026 — The top 5 AI agent frameworks in 2026 are LangGraph, Microsoft AutoGen, CrewAI, OpenAgents, and MetaGPT . Each framework targets a distinct use ... Read more",
+    "host_name": "www.intuz.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/400144559_LLM-Based_Multi-agent_Systems_Frameworks_Evaluation_Open_Challenges_and_Research_Frontiers",
+    "name": "LLM-Based Multi-agent Systems: Frameworks, Evaluation",
+    "snippet": "LLM-Based Multi-agent Systems : Frameworks, Evaluation, Open Challenges, and Research Frontiers. January 2026. DOI:10.1007/978-3-032-15632-7_9. In book: ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.superannotate.com/blog/multi-agent-llms",
+    "name": "Multi-agent LLMs in 2026 [+frameworks]",
+    "snippet": "Mar 10, 2026 — Multi-agent LLM frameworks enable multiple AI agents to work together or in a structured way in order to handle complex tasks, improve workflows ... Read more",
+    "host_name": "www.superannotate.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
+    "name": "AGI-Edgerunners/LLM-Agents-Papers",
+    "snippet": "A repo lists papers related to LLM based agent . Includes Recommendation For more comprehensive reading, we also recommend other paper lists. Read more",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0926580525003711",
+    "name": "Multi-agent large language model framework for code",
+    "snippet": "2025 · Cited by 21 — Multi-agent LLM framework enables automated, code-compliant structural design. · Implementation supports design and evaluation of reinforced concrete beams. Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

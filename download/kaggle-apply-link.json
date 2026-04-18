@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.kaggle.com/research-grants",
+    "name": "AI Competitions and Hackathons",
+    "snippet": "Compete in AI competitions and hackathons. Win prizes, build your portfolio, and discover the boundaries of what's possible.",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Kaggle: The World's AI Proving Ground",
+    "snippet": "Benchmark Research Grants . Blog. Apply for compute and infrastructure support for novel research benchmarks . Measuring progress toward AGI - Cognitive ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/unimelb",
+    "name": "Predict Grant Applications",
+    "snippet": "This task requires participants to predict the outcome of grant applications for the University of Melbourne.",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/blog/introducing-the-benchmarks-resource-grant-program",
+    "name": "Introducing the Benchmarks Resource Grant Program",
+    "snippet": "We are excited to announce an expansion to our research grants program: Benchmark Resource Grants .",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/unimelb/data",
+    "name": "Predict Grant Applications",
+    "snippet": "This task requires participants to predict the outcome of grant applications for the University of Melbourne.",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

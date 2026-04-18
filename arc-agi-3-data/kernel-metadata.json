@@ -1,0 +1,12 @@
+{
+  "id": "shyamdesigan/annotatex-arc-agi-3-agent-v1",
+  "title": "AnnotateX ARC-AGI-3 Agent v1",
+  "code_file": "agent_v1.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["arc-prize-2026-arc-agi-3"],
+  "competition_sources": ["arc-prize-2026-arc-agi-3"]
+}

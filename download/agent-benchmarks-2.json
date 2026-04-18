@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2503.01935",
+    "name": "Evaluating the Collaboration and Competition of LLM agents - arXiv",
+    "snippet": "In this paper, we introduce MultiAgentBench, a comprehensive benchmark designed to evaluate LLM-based multi-agent systems across diverse, interactive scenarios. Missing: swarm | Show results with: swarm",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/articles/s41598-026-42158-y",
+    "name": "Evaluating routing stability and coordination in swarm-based multi",
+    "snippet": "AgentBench proposed a multi-environment benchmark to assess LLM agents in interactive settings, reflecting a broader push toward standardized, ...",
+    "host_name": "www.nature.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/10976333",
+    "name": "A Framework and Benchmark for LLM-Driven Multiagent Control",
+    "snippet": "This work sheds light on the potential and limitations of LLMs in human-swarm coordination, paving the way for future research in this area.",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.04364",
+    "name": "[2505.04364] Benchmarking LLMs' Swarm intelligence - arXiv",
+    "snippet": "We introduce SwarmBench, a novel benchmark designed to systematically evaluate the swarm intelligence capabilities of LLMs acting as decentralized agents.",
+    "host_name": "arxiv.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.insticc.org/node/TechnicalProgram/ijcci/2025/presentationDetails/137081",
+    "name": "IJCCI 2025 - LLM-based Multi-Agent Systems - INSTICC",
+    "snippet": "This paper presents a comprehensive review of state-of-the-art LLM-based frameworks for building MAS - including AutoGen, CrewAI, CAMEL, ChatDev ...",
+    "host_name": "www.insticc.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=GAVA5zqtVB",
+    "name": "Benchmarking LLMs' Swarm intelligence - OpenReview",
+    "snippet": "Inspired by natural swarm systems, the benchmark simulates five multi-agent tasks (Pursuit, Synchronization, Foraging, Flocking, and Transport) ...",
+    "host_name": "openreview.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ai.se/sites/default/files/2025-12/A%20Practical%20Approach%20to%20Optimize%20Multi-Agent%20Systems%20v.0.9.pdf",
+    "name": "[PDF] A Practical Approach to Optimize Multi-Agent Systems - AI Sweden",
+    "snippet": "This evaluation vertical assesses the competence of individual agents against domain- appropriate benchmarks. Each agent type—web, retrieval, ...",
+    "host_name": "www.ai.se",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/eric-ai-lab/llm_coordination",
+    "name": "GitHub - eric-ai-lab/llm_coordination: Code repository for the NAACL",
+    "snippet": "Code repository for the NAACL 2025 paper \"LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models\" ... Missing: system swarm",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.langchain.com/blog/benchmarking-multi-agent-architectures",
+    "name": "Benchmarking Multi-Agent Architectures - LangChain",
+    "snippet": "Benchmarks comparing single agent, swarm, and supervisor multi-agent architectures. LangGraph's supervisor improvements achieved 50% ...",
+    "host_name": "www.langchain.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/394298482_MultiAgentBench_Evaluating_the_Collaboration_and_Competition_of_LLM_agents",
+    "name": "Evaluating the Collaboration and Competition of LLM agents",
+    "snippet": "Broader benchmarks increase comparability: MULTIA-GENTBENCH standardizes collaboration/competition scenarios and metrics, while BATTLEAGENT- ...",
+    "host_name": "www.researchgate.net",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

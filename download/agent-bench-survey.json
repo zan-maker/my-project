@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2408.15971",
+    "name": "[2408.15971] BattleAgentBench: A Benchmark for Evaluating  - arXiv",
+    "snippet": "We propose a benchmark, called BattleAgentBench, which defines seven sub-stages of three varying difficulty levels and conducts a fine-grained evaluation of ... Missing: swarm survey 2025 2026",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/394298482_MultiAgentBench_Evaluating_the_Collaboration_and_Competition_of_LLM_agents",
+    "name": "Evaluating the Collaboration and Competition of LLM agents",
+    "snippet": "Broader benchmarks increase comparability: MULTIA-GENTBENCH standardizes collaboration/competition scenarios and metrics, while BATTLEAGENT- ...",
+    "host_name": "www.researchgate.net",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/masamasa59/ai-agent-papers/blob/main/capability-papers/evaluation.md",
+    "name": "ai-agent-papers/capability-papers/evaluation.md at main - GitHub",
+    "snippet": "masamasa59/ai-agent-papers.",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/394261826_Evaluation_and_Benchmarking_of_LLM_Agents_A_Survey",
+    "name": "Evaluation and Benchmarking of LLM Agents: A Survey",
+    "snippet": "Most evaluations focus on whether models can produce correct outputs-measuring knowledge, reasoning, or instruction following (Mohammadi et al., 2025; Kazemi et ...",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AGI-Edgerunners/LLM-Agents-Papers",
+    "name": "AGI-Edgerunners/LLM-Agents-Papers - GitHub",
+    "snippet": "Last Updated Time: 2025/7/12. A repo lists papers related to LLM based agent. Includes. Survey; Technique For Enhancement.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.langchain.com/blog/benchmarking-multi-agent-architectures",
+    "name": "Benchmarking Multi-Agent Architectures - LangChain",
+    "snippet": "Benchmarks comparing single agent, swarm, and supervisor multi-agent architectures. LangGraph's supervisor improvements achieved 50% ... Missing: survey | Show results with: survey",
+    "host_name": "www.langchain.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/MultiAgentBench%3A-Evaluating-the-Collaboration-and-Zhu-Du/8998b3895cce8b206098197478d3d9bc3add321c",
+    "name": "Evaluating the Collaboration and Competition of LLM agents",
+    "snippet": "This paper introduces MultiAgentBench, a comprehensive benchmark designed to evaluate LLM-based multi-agent systems across diverse, interactive scenarios ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://trilogyai.substack.com/p/evaluating-agent-systems-and-human",
+    "name": "Evaluating Agent Systems and Human AI Fluency (Part 1)",
+    "snippet": "We will survey the key benchmarks developed between 2023-2025 for both single and multi-agent systems, highlighting significant advancements in ...",
+    "host_name": "trilogyai.substack.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2503.01935",
+    "name": "Evaluating the Collaboration and Competition of LLM agents - arXiv",
+    "snippet": "In this paper, we introduce MultiAgentBench, a comprehensive benchmark designed to evaluate LLM-based multi-agent systems across diverse, interactive scenarios. Missing: swarm comparison survey",
+    "host_name": "arxiv.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/THUDM/BattleAgentBench",
+    "name": "THUDM/BattleAgentBench - GitHub",
+    "snippet": "BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems. This repository contains ... Missing: swarm comparison survey",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

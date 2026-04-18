@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2505.04364",
+    "name": "[2505.04364] Benchmarking LLMs' Swarm intelligence - arXiv",
+    "snippet": "We introduce SwarmBench, a novel benchmark designed to systematically evaluate the swarm intelligence capabilities of LLMs acting as decentralized agents.",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2505.04364v4",
+    "name": "Benchmarking LLMs' Swarm intelligence - arXiv",
+    "snippet": "SwarmBench: A novel benchmark grounded in swarm intelligence constraints, designed to assess emergent decentralized coordination in LLM swarms ...",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://huggingface.co/papers/2505.04364",
+    "name": "Paper page - Benchmarking LLMs' Swarm intelligence - Hugging Face",
+    "snippet": "New benchmark evaluates LLMs in decentralized coordination tasks under limited information, highlighting challenges and potential for future systems.",
+    "host_name": "huggingface.co",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/RUC-GSAI/YuLan-SwarmIntell",
+    "name": "RUC-GSAI/YuLan-SwarmIntell: SwarmBench: Benchmarking LLMs",
+    "snippet": "SwarmBench is a novel benchmark designed to systematically evaluate the swarm intelligence capabilities of Large Language Models (LLMs) acting as decentralized ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/391531605_Benchmarking_LLMs'_Swarm_intelligence",
+    "name": "(PDF) Benchmarking LLMs' Swarm intelligence - ResearchGate",
+    "snippet": "To bridge this gap, we introduce SwarmBench, a novel benchmark designed to systematically evaluate the swarm intelligence capabilities of LLMs ...",
+    "host_name": "www.researchgate.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=GAVA5zqtVB",
+    "name": "Benchmarking LLMs' Swarm intelligence - OpenReview",
+    "snippet": "We introduce SwarmBench, a benchmark to systematically evaluate the swarm intelligence of LLMs as decentralized agents. SwarmBench features ... Missing: arxiv 2505.04364",
+    "host_name": "openreview.net",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://tldr.takara.ai/p/2505.04364",
+    "name": "Benchmarking LLMs' Swarm intelligence - Takara TLDR",
+    "snippet": "To bridge this gap, we introduce SwarmBench, a novel benchmark designed to systematically evaluate the swarm intelligence capabilities of LLMs acting as ...",
+    "host_name": "tldr.takara.ai",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://x.com/rohanpaul_ai/status/1921733564191682763",
+    "name": "Current benchmarks inadequately assess LLMs' emergent",
+    "snippet": "This paper introduces SwarmBench, a novel benchmark with five tasks in a 2D grid. It forces LLM agents to rely on limited local perception and communication ...",
+    "host_name": "x.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.themoonlight.io/en/review/benchmarking-llms-swarm-intelligence",
+    "name": "[Literature Review] Benchmarking LLMs' Swarm intelligence",
+    "snippet": "The paper \"Benchmarking LLMs' Swarm Intelligence\" introduces SwarmBench, a novel benchmark to evaluate the swarm intelligence capabilities of Large Language ... Missing: arxiv 2505.04364",
+    "host_name": "www.themoonlight.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openreview.net/forum?id=JF9icHAsSX",
+    "name": "Benchmarking LLMs' Swarm Intelligence - OpenReview",
+    "snippet": "We introduce SwarmBench, a benchmark for evaluating emergent coordination in LLM-based swarms. The benchmark features five tasks in a physics- ... Missing: arxiv 2505.04364",
+    "host_name": "openreview.net",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
