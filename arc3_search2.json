@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://docs.arcprize.org/agents-quickstart",
+    "name": "Agents Quickstart - ARC-AGI-3 Docs",
+    "snippet": "Make sure you have your ARC_API_KEY populated in your environment variables . See API Keys for setup instructions. ​. Step 2: Run an Agent. Read more\nCreate Your Own Agent — Build a custom agent ; LLM Agents — Build agents powered by LLMs ; Partner Templates — Start from partner-provided templates.",
+    "host_name": "docs.arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/projectforty2/forge-arc-agi-3-agent",
+    "name": "FORGE ARC-AGI-3 Agent",
+    "snippet": "31 Mar 2026 — Explore and run AI code with Kaggle Notebooks | Using data from ARC Prize 2026 - ARC-AGI-3.\nExplore and run AI code with Kaggle Notebooks | Using data from ARC Prize 2026 - ARC-AGI-3. Missing: kernel | Show results with: kernel",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.arcprize.org",
+    "name": "ARC-AGI-3 Quickstart",
+    "snippet": "ARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI Agent's ability to generalize in novel, unseen environments.\nARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI Agent's ability to generalize in novel, unseen environments. Missing: submission kaggle kernel",
+    "host_name": "docs.arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/arcprize/ARC-AGI-3-Agents",
+    "name": "arcprize/ARC-AGI-3-Agents",
+    "snippet": "Once logged in, click on \"New Project\" to create a project for your ARC - AGI - 3 agents ... To submit your agent for the ARC - AGI - 3 competition, please use this form ... Read more\nTo contribute to ARC-AGI-3-Agents, please follow these steps: Fork the repository and create a new branch for your feature or bugfix . Make your changes and ...\nTo contribute to ARC-AGI-3-Agents, please follow these steps: Fork the repository and create a new branch for your feature or bugfix. Make your changes and ... Missing: kaggle kernel",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/hmnshudhmn24/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3",
+    "snippet": "26 Mar 2026 — This Python 3 environment comes with many helpful analytics libraries installed # It is defined by the kaggle / python Docker image: ... Read more\nThis Python 3 environment comes with many helpful analytics libraries installed # It is defined by the kaggle/python Docker image: ... Missing: kernel | Show results with: kernel",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

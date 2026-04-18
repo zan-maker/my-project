@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "ARC Prize 2026 overview. Get Started. The ARC-AGI-3 documentation covers the SDK, game environments, and how to build and submit agents. View ARC-AGI-3 Docs ... Missing: server three.",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "The primary mission of ARC Prize is to accelerate progress toward open Artificial General Intelligence (AGI) by making cutting-edge solutions freely available ... Missing: server | Show results with: server",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.arcprize.org",
+    "name": "ARC-AGI-3 Quickstart",
+    "snippet": "ARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI Agent's ability to generalize in novel, unseen environments. Missing: 2026 competition server three.",
+    "host_name": "docs.arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/data",
+    "name": "ARC Prize 2026 - ARC-AGI-3 | Kaggle",
+    "snippet": "ARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI agent's ability to generalize in novel, unseen environments. Missing: server submit",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/arcprize/ARC-AGI-3-Agents",
+    "name": "arcprize/ARC-AGI-3-Agents - GitHub",
+    "snippet": "Add your AgentOps API key to your .env file: ... To submit your agent for the ARC-AGI-3 competition, please use this form: https://forms.gle/wMLZrEFGDh33DhzV9. Missing: server three.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

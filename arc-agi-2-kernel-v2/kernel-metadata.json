@@ -1,0 +1,13 @@
+{
+  "id": "shyamdesigan/annotatex-arc-agi-2-v2",
+  "title": "annotatex-arc-agi-2-v2",
+  "code_file": "solver_v2.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "competition_sources": ["arc-prize-2026-arc-agi-2"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}

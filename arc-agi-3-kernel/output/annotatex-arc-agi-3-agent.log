@@ -1,0 +1,11 @@
+[{"stream_name":"stdout","time":1.961730771,"data":"submission.parquet created\n"}
+,{"stream_name":"stdout","time":1.961875797,"data":"Agent code written to /kaggle/working/my_agent.py\n"}
+,{"stream_name":"stdout","time":1.961891297,"data":"=== DEVELOPMENT MODE (not competition rerun) ===\n"}
+,{"stream_name":"stdout","time":1.961895642,"data":"Agent code prepared. Will run when submitted to competition.\n"}
+,{"stream_name":"stderr","time":4.246935576,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":4.246981265,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":4.505600691,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":4.505630866,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":5.729649569,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6.879624521,"data":"[NbConvertApp] Writing 298253 bytes to __results__.html\n"}
+]
