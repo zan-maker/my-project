@@ -1,0 +1,33 @@
+2026-04-18 09:05:31,977 | WARNING | ARC-AGI-3 framework not found. Running in standalone demo mode.
+2026-04-18 09:05:31,978 | INFO | Framework not available, providing class stubs.
+2026-04-18 09:05:31,978 | INFO | ============================================================
+2026-04-18 09:05:31,978 | INFO | AnnotateX ARC-AGI-3 Agent v1 - Demo Mode
+2026-04-18 09:05:31,978 | INFO | ============================================================
+2026-04-18 09:05:31,978 | INFO | 
+Sample Grid:
+2026-04-18 09:05:31,978 | INFO |   Layer 0 (8x8):
+    [0, 0, 0, 0, 0, 0, 0, 0]
+    [0, 5, 5, 0, 0, 0, 0, 0]
+    [0, 5, 9, 5, 0, 11, 11, 0]
+    [0, 0, 5, 0, 0, 11, 14, 0]
+    [0, 0, 0, 0, 0, 11, 11, 0]
+    [0, 0, 0, 0, 0, 0, 0, 0]
+    [6, 6, 0, 0, 0, 0, 0, 0]
+    [0, 0, 0, 0, 0, 0, 0, 0]
+2026-04-18 09:05:31,978 | INFO | 
+Unique colors: {0, 5, 6, 9, 11, 14}
+2026-04-18 09:05:31,978 | INFO |   Color 5: 5 pixels, bbox: (1, 1, 3, 3)
+2026-04-18 09:05:31,978 | INFO |   Color 6: 2 pixels, bbox: (6, 0, 6, 1)
+2026-04-18 09:05:31,978 | INFO |   Color 9: 1 pixels, bbox: (2, 2, 2, 2)
+2026-04-18 09:05:31,978 | INFO |   Color 11: 5 pixels, bbox: (2, 5, 4, 6)
+2026-04-18 09:05:31,978 | INFO |   Color 14: 1 pixels, bbox: (3, 6, 3, 6)
+2026-04-18 09:05:31,978 | INFO | 
+Frame diff: 1 changes
+2026-04-18 09:05:31,978 | INFO | 
+Exploration state:
+2026-04-18 09:05:31,978 | INFO |   Stuck: True
+2026-04-18 09:05:31,978 | INFO |   ACTION1 success rate: 100%
+2026-04-18 09:05:31,978 | INFO |   ACTION2 success rate: 0%
+2026-04-18 09:05:31,978 | INFO |   Best moves: ['ACTION1', 'ACTION4', 'ACTION3', 'ACTION2']
+2026-04-18 09:05:31,978 | INFO | 
+Demo complete!

@@ -1,0 +1,68 @@
+% ============================================================
+% AnnotateX Architecture Diagram
+% figures/architecture.tex
+% ============================================================
+
+\begin{tikzpicture}[
+    >=Stealth,
+    node distance=0.7cm and 0.5cm,
+    block/.style={
+        rectangle, draw, rounded corners=3pt,
+        minimum height=1.1cm, minimum width=2.0cm,
+        align=center, font=\tiny\bfseries,
+        fill=annotatex!10, draw=annotatex!70
+    },
+    strategy/.style={
+        rectangle, draw, rounded corners=2pt,
+        minimum height=0.7cm, minimum width=1.4cm,
+        align=center, font=\tiny,
+        fill=accentgreen!10, draw=accentgreen!60
+    },
+    io/.style={
+        rectangle, draw, rounded corners=2pt,
+        minimum height=0.8cm, minimum width=1.6cm,
+        align=center, font=\tiny,
+        fill=orange!10, draw=orange!60
+    },
+    arrow/.style={->, thick, annotatex!70},
+    lbl/.style={font=\tiny\itshape, annotatex!80}
+]
+
+% --- Input ---
+\node[io] (input) {ARC Task Pairs};
+
+% --- Pattern Analyzer ---
+\node[block, right=0.7cm of input] (pa) {Pattern\\Analyzer};
+
+% --- Grid Encoder ---
+\node[block, right=0.7cm of pa] (ge) {Grid\\Encoder};
+
+% --- Rule Inference Engine (large) ---
+\node[block, right=0.7cm of ge, minimum width=2.6cm, minimum height=2.6cm, fill=annotatex!5] (ri) {};
+
+% Rule Inference label
+\node[font=\tiny\bfseries, annotatex!80] at ([yshift=1.0cm]ri.center) {Rule Inference Engine};
+
+% Strategy boxes inside Rule Inference
+\node[strategy] (s1) at ([xshift=-0.5cm, yshift=0.35cm]ri.center) {Geometric};
+\node[strategy] (s2) at ([xshift=0.7cm, yshift=0.35cm]ri.center) {Color};
+\node[strategy] (s3) at ([xshift=-0.5cm, yshift=-0.35cm]ri.center) {Structural};
+\node[strategy] (s4) at ([xshift=0.7cm, yshift=-0.35cm]ri.center) {Composite};
+
+% --- Self-Consistency Decoder ---
+\node[block, right=0.7cm of ri] (sc) {Self-Cons.\\Decoder};
+
+% --- Output ---
+\node[io, right=0.7cm of sc] (output) {Prediction};
+
+% --- Arrows ---
+\draw[arrow] (input) -- (pa);
+\draw[arrow] (pa) -- node[above, lbl] {annotations} (ge);
+\draw[arrow] (ge) -- node[above, lbl] {symbols} (ri);
+\draw[arrow] (ri) -- node[above, lbl] {hypotheses} (sc);
+\draw[arrow] (sc) -- node[above, lbl] {prediction} (output);
+
+% --- Ensemble feedback arrow ---
+\draw[arrow, dashed, annotatex!40] (sc.south) -- ++(0,-0.5) -| (ri.south);
+
+\end{tikzpicture}
