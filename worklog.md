@@ -76,3 +76,24 @@ Stage Summary:
 - Technical writeup: arc-prize-2026/gemma-good-hackathon-minelens/writeup/technical_writeup.docx (22KB)
 - Remaining for Gemma 4 Good: Submit to Kaggle with all artifacts
 - Remaining for Nemotron: User must accept rules + upload CSV at kaggle.com
+
+---
+Task ID: 4
+Agent: Main Agent
+Task: Build Nemotron LoRA Fine-Tuning Kaggle Notebook
+
+Work Log:
+- Researched Nemotron competition requirements: NOT a CSV competition — requires LoRA adapter submission
+- Studied submission demo notebook by Ryan Holbrook (16m runtime, 0.49-0.50 baseline score)
+- Researched Nemotron-3-Nano-30B architecture: hybrid Mamba2-Transformer MoE, 30B total, 3.2B active
+- Built complete 26-cell Kaggle notebook with LoRA fine-tuning pipeline
+- Notebook covers: install deps, data analysis, chat template formatting, model loading, LoRA config, SFTTrainer training, evaluation, submission packaging
+- LoRA config: rank=32, alpha=16, targets in_proj/out_proj/up_proj/down_proj (Mamba-2 + MLP)
+- Training: 2 epochs, batch=1, grad_accum=8, lr=1e-4, bf16, adamw_8bit
+- Generated thumbnail image (560x280) and dashboard image (1280x720) for Gemma 4 submission
+- Fixed MineLens spelling in dashboard image
+
+Stage Summary:
+- Notebook: download/nemotron_lora_finetune.ipynb (26 cells, 724 lines)
+- Pushed to GitHub: https://github.com/zan-maker/my-project/blob/main/download/nemotron_lora_finetune.ipynb
+- User needs to: (1) Create new Kaggle Notebook, (2) Add utility script, (3) Enable GPU, (4) Run all cells, (5) Submit submission.zip
