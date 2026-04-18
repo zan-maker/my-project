@@ -1,0 +1,13 @@
+{
+  "id": "shyamdesigan/annotatex-arc-agi-2-v3",
+  "title": "AnnotateX ARC-AGI-2 v3",
+  "code_file": "kaggle_v3_notebook.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "competition_sources": ["arc-prize-2026-arc-agi-2"],
+  "dataset_sources": [],
+  "kernel_sources": []
+}
