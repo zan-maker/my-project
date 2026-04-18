@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-2",
+    "name": "ARC Prize 2026 - ARC-AGI-2 Competition",
+    "snippet": "For each task, you should predict exactly 2 outputs for every test input grid. If any of the 2 predicted outputs matches the ground truth exactly, you score ... Missing: metric | Show results with: metric\nView 2024 results ...",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+    "name": "ARC Prize 2026 - ARC-AGI-2 - Kaggle",
+    "snippet": "The submission file for this competition must be a json named submission.json . For each task output in the evaluation set, you should make exactly 2 ...\nARC - AGI - 2 Grand Prize : $275,000 ... The Grand Prize will be awarded to the highest scoring Solution Writeup based on the below criteria. All artifacts should be ...\nThis competition evaluates submissions on the percentage of correct predictions. For each task, you should make 2 attempts to predict the exact outputs for ...",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/guide/1",
+    "name": "ARC-AGI-1 & ARC-AGI-2 Guide - ARC Prize",
+    "snippet": "ARC-AGI tasks are a series of three to five input and output tasks followed by a final task with only the input listed. Each task tests the utilization of a ... Missing: metric | Show results with: metric",
+    "host_name": "arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/guide",
+    "name": "Guide - ARC Prize",
+    "snippet": "ARC-AGI-1 & ARC-AGI-2. Learn the task format, data structure, development tools, and solution approaches for the original ARC-AGI benchmark format. Missing: grid metric\nARC-AGI-1 & ARC-AGI-2. Learn the task format , data structure, development tools, and solution approaches for the original ARC-AGI benchmark format.\nARC-AGI-1 & ARC-AGI-2. Learn the task format, data structure, development tools, and solution approaches for the original ARC-AGI benchmark format. Missing: grid | Show results with: grid",
+    "host_name": "arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2/data",
+    "name": "ARC Prize 2026 - ARC-AGI-2 - Kaggle",
+    "snippet": "The objective of this competition is to create an algorithm that is capable of solving abstract reasoning tasks. Critically, these are novel tasks: tasks ... Missing: metric | Show results with: metric",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2505.11831",
+    "name": "[PDF] ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems",
+    "snippet": "We introduce ARC-AGI-2, an upgraded version of the benchmark. ARC-AGI-2 preserves the input-output pair task format of its predecessor ...\nRetain the established and well-understood task format of ARC-AGI-1, with tasks defined via input-output pairs of grids (sized from 1x1 to 30x30) ...",
+    "host_name": "arxiv.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/arcprize/ARC-AGI-2",
+    "name": "arcprize/ARC-AGI-2 - GitHub",
+    "snippet": "Copy from input: copy the input grid to the output grid. This is useful for ... When your output grid is ready, click the green \"Submit!\" button to ... Missing: metric | Show results with: metric\nThe tasks are stored in JSON format . Each task JSON file contains a dictionary with two fields: \"train\" : demonstration input / output pairs. It is a list of ...\nARC-AGI-2 contains 1,000 public training tasks and 120 public evaluation tasks. The training tasks are intended to demonstrate the task format and the Core ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "ARC-AGI-1 · ARC-AGI-2 · ARC-AGI-3 ... Solutions must be submitted through the designated Kaggle competition for ... Missing: input grid metric\nThe primary mission of ARC Prize is to accelerate progress toward open Artificial General Intelligence (AGI) by making cutting-edge solutions freely available ... Missing: input grid",
+    "host_name": "arcprize.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/arc-agi/2",
+    "name": "ARC-AGI-2",
+    "snippet": "ARC-AGI-2 - the next iteration of the benchmark - is designed to stress-test the capabilities of state-of-the-art AI reasoning systems, provide useful signal on ... Missing: input output grid\nARC-AGI-2: Compositional Reasoning. Tasks requiring simultaneous application of a rules, or application of multiples rules that interact with each other. In ... Missing: input output grid",
+    "host_name": "arcprize.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org",
+    "name": "ARC Prize",
+    "snippet": "ARC Prize Foundation is a nonprofit advancing open-source artificial general intelligence research through benchmarks & prizes. Enter ARC Prize 2026 Now ... Missing: format output grid evaluation metric submit",
+    "host_name": "arcprize.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

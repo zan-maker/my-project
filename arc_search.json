@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+    "name": "ARC Prize 2026 - ARC-AGI-2 - Kaggle",
+    "snippet": "The ARC Prize focuses on true generalization: whether a system can quickly learn new skills in unfamiliar situations. Instead of rewarding pattern recognition ...\nARC-AGI-2 Grand Prize: $275,000 ; Accuracy, How accurate is the submission based on its performance on the leaderboard? ; Universality, How general and universal ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+    "name": "ARC Prize 2026 - Paper Track | Kaggle",
+    "snippet": "The ARC Prize focuses on true generalization: whether a system can quickly learn new skills in unfamiliar situations. Instead of rewarding ...\nNote: there are three active competitions for ARC in 2026: ARC-AGI-3, ARC-AGI-2, and this paper track, where you can document your approach for ...",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2/data",
+    "name": "ARC Prize 2026 - ARC-AGI-2 - Kaggle",
+    "snippet": "The objective of this competition is to create an algorithm that is capable of solving abstract reasoning tasks. Critically, these are novel tasks: tasks ... Missing: paper track",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "The primary mission of ARC Prize is to accelerate progress toward open Artificial General Intelligence (AGI) by making cutting-edge solutions freely available ...",
+    "host_name": "arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2/code",
+    "name": "ARC Prize 2026 - ARC-AGI-2 | Kaggle",
+    "snippet": "ARC Prize 2026 - ARC-AGI-2. Create an AI capable of novel reasoning. Join Competition. more_horiz. ARC Prize 2026 - ARC-AGI-2. Missing: paper track details evaluation",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2/discussion/684857",
+    "name": "ARC Prize 2026 - ARC-AGI-2 - Kaggle",
+    "snippet": "Eval and test for arc agi2 is much harder. Our last year winning solution achieved 31% on arc agi2 eval, and over 95% on arc agi1 eval. Missing: paper track details evaluation",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 - Kaggle",
+    "snippet": "Note: there are three active competitions for ARC in 2026: this competition, ARC-AGI-2, and a paper track, where you can document your approach for either ...",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org",
+    "name": "ARC Prize",
+    "snippet": "ARC Prize Foundation is a nonprofit advancing open-source artificial general intelligence research through benchmarks & prizes. Enter ARC Prize 2026 Now ... Missing: details rules evaluation\nARC-AGI Benchmark Series ... Trusted by the world's leading AI labs and top academic researchers, explore the only benchmark that measures fluid intelligence. Missing: details | Show results with: details",
+    "host_name": "arcprize.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2505.11831",
+    "name": "[PDF] ARC-AGI-2: A New Challenge for Frontier AI Reasoning Systems",
+    "snippet": "The original public dataset contained 400 training tasks and 400 evaluation tasks. A Private Evaluation set of 100 tasks was reserved for ... Missing: track | Show results with: track",
+    "host_name": "arxiv.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2/discussion/691081",
+    "name": "ARC Prize 2026 - ARC-AGI-2 | Kaggle",
+    "snippet": "ARC Prize 2026 - ARC-AGI-2. Create an AI capable of novel reasoning. Join Competition. Missing: paper track details",
+    "host_name": "www.kaggle.com",
+    "rank": 9,
+    "date": "Apr 14, 2026",
+    "favicon": ""
+  }
+]

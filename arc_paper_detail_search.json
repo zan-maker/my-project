@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+    "name": "ARC Prize 2026 - Paper Track | Kaggle",
+    "snippet": "To participate in the ARC Prize 2026 Paper Track, you need to submit a Writeup where you document the submission that you provided for ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/paper",
+    "name": "ARC Prize 2026 - Paper Prize",
+    "snippet": "Paper submissions must be linked to a Kaggle code submission (ARC-AGI-2 or ARC-AGI-3 track) that demonstrates the approach detailed in the paper. ... Evaluation ... Missing: criteria | Show results with: criteria",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/guide",
+    "name": "Guide - ARC Prize",
+    "snippet": "Learn the task format, data structure, development tools, and solution approaches for the original ARC-AGI benchmark format. Read the Guide. ARC-AGI-3 game demo. Missing: paper track writeups",
+    "host_name": "arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2601.10904v1",
+    "name": "ARC Prize 2025: Technical Report - arXiv",
+    "snippet": "Paper submissions nearly doubled year-over-year to 90 entries, reflecting the growing research interest in fluid intelligence and abstract ... Missing: criteria | Show results with: criteria",
+    "host_name": "arxiv.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/arc-prize-2026-paper-track-analysis",
+    "name": "ARC Prize 2026 Paper Track Analysis - Kaggle",
+    "snippet": "This notebook provides: Visual analysis of competition structure and evaluation criteria; Timeline visualization and milestone planning; Strategic ...",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GbCgyY1laDU",
+    "name": "ARC Prize: A Guide to DSL, LLM-Guided & Test-time Training",
+    "snippet": "... ARC training and evaluation data and preparation 33:44 Detailed DSL Approach (Domain Specific Language) 48:47 LLM Guided Search (in detail) ... Missing: paper track writeups submit criteria",
+    "host_name": "www.youtube.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.arc.gov.au/funding-research/peer-review/how-write-quality-peer-review",
+    "name": "How to write a Quality Peer Review | Australian Research Council",
+    "snippet": "Objective, constructive and professional comments. · Detailed comments on the merits or otherwise of the application with respect to ...",
+    "host_name": "www.arc.gov.au",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/arcprize/ARC-AGI-2",
+    "name": "arcprize/ARC-AGI-2 - GitHub",
+    "snippet": "ARC-AGI-2 contains 1,000 public training tasks and 120 public evaluation tasks. The training tasks are intended to demonstrate the task format and the Core ... Missing: paper writeups",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lewish.io/posts/arc-agi-2025-research-review",
+    "name": "ARC-AGI 2025: A research review - lewish.io",
+    "snippet": "A review of ARC-AGI 2024 top and related papers, a summary of the key approaches, and ideas for ARC-AGI-2 and ARC 2025.",
+    "host_name": "lewish.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aiguide.substack.com/p/on-the-arc-agi-1-million-reasoning",
+    "name": "On the “ARC-AGI” $1 Million Reasoning Challenge",
+    "snippet": "The private evaluation set (or a subset of it) is used to score programs submitted to ARC competitions, and is never revealed publicly. Humans ...",
+    "host_name": "aiguide.substack.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
