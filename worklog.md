@@ -50,3 +50,29 @@ Stage Summary:
 - Gemma 4 notebook: minelens_ai.ipynb with Gemma 4 client, 5+ tools, agentic pipeline demo
 - All 6 tools implemented: spectral, terrain, proximity, risk, report, geological_survey
 - Files: solver.py, solver_v2.py, submit.py, minelens_ai.ipynb, geological_survey.py
+
+---
+Task ID: 3
+Agent: Main Agent
+Task: MineLens AI demo video + notebook enhancement + submission preparation
+
+Work Log:
+- Created MineLens AI demo video (63 sec, 1920x1080, 2.1MB MP4)
+  - 8 professional slides with dark theme (#162235) + cyan accent (#37DCF2)
+  - Covers: title, problem, architecture, 6 tools, Atacama demo, pipeline, impact, closing
+  - Generated with matplotlib + ffmpeg via Python script
+- Added geological_survey_lookup tool (6th tool) to Kaggle notebook
+  - Coverage: Chile, Peru, Australia, DRC, USA, China
+  - 6 data layers: geology, mineral_occurrences, fault_lines, geochemistry, magnetics, gravity
+- Updated notebook to 15 cells with all 6 tools registered in tool schema
+- Updated agentic pipeline to call geological survey first in analysis sequence
+- Updated summary section: "5 Specialized Tools" -> "6 Specialized Tools"
+- Copied updated notebook and video to /download/ for easy Kaggle upload
+- Committed and pushed to GitHub (c862abd)
+
+Stage Summary:
+- Demo video: arc-prize-2026/gemma-good-hackathon-minelens/video/minelens_demo.mp4
+- Updated notebook: download/minelens_ai.ipynb (15 cells, 6 tools)
+- Technical writeup: arc-prize-2026/gemma-good-hackathon-minelens/writeup/technical_writeup.docx (22KB)
+- Remaining for Gemma 4 Good: Submit to Kaggle with all artifacts
+- Remaining for Nemotron: User must accept rules + upload CSV at kaggle.com
