@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+    "name": "ARC Prize 2026 - Paper Track",
+    "snippet": "25 Mar 2026 — Optionally, instead of using the Kaggle Writeup, you can upload a PDF version of your paper using the Public Project Link feature. It should be ... Read more\nMar 25, 2026 — To participate in the ARC Prize 2026 Paper Track, you need to submit a Writeup where you document the submission that you provided for either ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+    "name": "ARC Prize 2026 - ARC-AGI-2",
+    "snippet": "The submission file for this competition must be a json named submission .json . For each task output in the evaluation set, you should make exactly 2 ... Read more\nARC -AGI-2 Grand Prize : $275,000. The Grand Prize will be awarded to the highest scoring Solution Writeup based on the below criteria. All artifacts should be ...",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/paper",
+    "name": "ARC Prize 2026 - Paper Prize",
+    "snippet": "Each paper must include a corresponding Kaggle submission confirming it describes a real, working entry. The submission's score will be used in the rubric's “ ... Read more\nPaper submissions must be linked to a Kaggle code submission (ARC-AGI-2 or ARC-AGI-3 track) that demonstrates the approach detailed in the paper. The code ...",
+    "host_name": "arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/overview/submission-requirements",
+    "name": "ARC Prize 2026 - Paper Track",
+    "snippet": "Document your conceptual approach for the ARC Prize 2026 .",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@ibrahim313/how-to-submit-to-kaggle-competitions-using-mcp-vs-code-9003bbb5af63",
+    "name": "How to Submit to Kaggle Competitions Using MCP (VS",
+    "snippet": "Instead, you need a Kaggle notebook that runs on Kaggle , creates submission .json , and saves it inside / kaggle /working/ . Then you submit that ... Read more",
+    "host_name": "medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/arc-prize-2026-paper-track-analysis",
+    "name": "ARC Prize 2026 Paper Track Analysis",
+    "snippet": "This notebook provides: Visual analysis of competition structure and evaluation criteria; Timeline visualization and milestone planning; Strategic ... Read more\nVisual analysis of competition structure and evaluation criteria; Timeline visualization and milestone planning; Strategic framework for high-scoring ...",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3",
+    "snippet": "Note: there are three active competitions for ARC in 2026 : this competition, ARC -AGI-2, and a paper track , where you can document your approach for either one ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/data",
+    "name": "ARC Prize 2026 - Paper Track",
+    "snippet": "ARC Prize 2026 - Paper Track . Document your conceptual approach for the ARC Prize 2026. Join Hackathon. more_horiz. ARC Prize 2026 - Paper Track. Read more\nDocument your conceptual approach for the ARC Prize 2026 .",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark",
+    "snippet": "3 Apr 2026 — The competition opened on March 25, 2026 , with a final submission deadline of November 2, 2026 , and results announced on December 4, 2026 . Why ... Read more",
+    "host_name": "www.datacamp.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/rules",
+    "name": "ARC Prize 2026 - ARC-AGI-3",
+    "snippet": "Payments to potential winners are subject to the express requirement that they submit all documentation requested by Competition Sponsor or Kaggle for ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

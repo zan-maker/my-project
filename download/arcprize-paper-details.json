@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+    "name": "ARC Prize 2026 - Paper Track",
+    "snippet": "25 Mar 2026 — This is where you should attach any images and/or videos associated with your submission . A cover image is required to submit your Writeup .\nTo participate in the ARC Prize 2026 Paper Track, you need to submit a Writeup where you document the submission that you provided for either ...\nThis is where you should attach any images and/or videos associated with your submission. A cover image is required to submit your Writeup.",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/paper",
+    "name": "ARC Prize 2026 - Paper Prize",
+    "snippet": "Paper submissions must be linked to a Kaggle code submission (ARC-AGI-2 or ARC-AGI-3 track) that demonstrates the approach detailed in the paper. The code ...",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/arc-prize-2026-paper-track-analysis",
+    "name": "ARC Prize 2026 Paper Track Analysis",
+    "snippet": "... submission, Verify all submission requirements twice . Avoid Common Pitfalls: Don't exceed 1,500 word limit, Don't forget the cover image requirement, Don't ...\n... submission, Verify all submission requirements twice. Avoid Common Pitfalls: Don't exceed 1,500 word limit, Don't forget the cover image requirement, Don't ...",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "All prizes require reproducible, open-source submissions ; Solutions must be submitted through the designated Kaggle competition for each track ; Internet ...\nAll prizes require reproducible, open-source submissions; Solutions must be submitted through the designated Kaggle competition for each track; Internet ...\nAll prizes require reproducible, open-source submissions; Solutions must be submitted through the designated Kaggle competition for each track; Internet ... Missing: writeup | Show results with: writeup",
+    "host_name": "arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+    "name": "ARC Prize 2026 - ARC-AGI-2",
+    "snippet": "The submission file for this competition must be a json named submission .json . For each task output in the evaluation set, you should make exactly 2 ...",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/rules",
+    "name": "ARC Prize 2026 - ARC-AGI-3",
+    "snippet": "Your competition Submissions must conform to the requirements stated on the Competition Website. Your Submissions will be scored based on the evaluation metric ...",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/discussion/684624",
+    "name": "ARC Prize 2026 - Paper Track",
+    "snippet": "This is intended to be a more casual space to discuss competitions and help each other. Please keep important questions, insights, writeups , and other valuable ...",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/overview/submission-requirements",
+    "name": "ARC Prize 2026 - Paper Track",
+    "snippet": "Document your conceptual approach for the ARC Prize 2026 .",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "Submission Requirements. Submissions must be made through the designated Kaggle competition . No internet access during evaluation; All code and methods must be ...\nMilestone #2 (September 30, 2026): 1st: $25K, 2nd: $10K, 3rd: $2.5K. Submission Requirements. Submissions must be made through the designated Kaggle competition ... Missing: paper | Show results with: paper\nSubmission Requirements. Submissions must be made through the designated Kaggle competition. No internet access during evaluation; All code and methods must be ... Missing: paper writeup",
+    "host_name": "arcprize.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions",
+    "name": "Competitions and Hackathons",
+    "snippet": "2 days ago — ARC Prize 2026 - Paper Track . more_vert. Document your conceptual approach for the ARC Prize 2026 . 22 Teams. $450,000. info. 7 months to go.",
+    "host_name": "www.kaggle.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
