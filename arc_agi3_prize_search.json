@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 - Kaggle",
+    "snippet": "Final Leaderboard Prizes: $75,000. These prizes are based on the leaderboard score at the end of the competition. First Prize: $40,000; Second Prize: $15,000 ... Missing: money 700K",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "Grand Prize (100%) - $700K. Awarded to the first eligible agent that scores 100% on the ARC-AGI-3 evaluation. If not won, the Grand Prize will continue ... Missing: leaderboard 700K",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/discussion/684682",
+    "name": "ARC Prize 2026 - ARC-AGI-3 - Kaggle",
+    "snippet": "In particular, I notice the arc-agi-3 website says \"Grand Prize (100%) - $700K Awarded to the first eligible agent that scores 100% on the ARC-AGI-3 evaluation. Missing: 700K | Show results with: 700K",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/arc-agi/3/leaderboard",
+    "name": "ARC-AGI-3 Human Leaderboard",
+    "snippet": "This leaderboard ranks the top humans who have completed the most games in the fewest actions. Scores are derived from dissecting each game across many ... Missing: Kaggle money agent evaluation 700K",
+    "host_name": "arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark | DataCamp",
+    "snippet": "The ARC-AGI-3 track offers $850,000 in total prizes, headlined by a $700,000 Grand Prize for the first eligible agent that achieves 100% on the ...",
+    "host_name": "www.datacamp.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/leaderboard",
+    "name": "ARC Prize 2026 - ARC-AGI-3 | Kaggle",
+    "snippet": "This leaderboard is calculated with approximately 50% of the test data. The final results will be based on the other 50%, so the final standings may be ... Missing: money agent evaluation 700K grand",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/arc-agi/3",
+    "name": "ARC-AGI-3",
+    "snippet": "ARC-AGI-3 is an interactive reasoning benchmark which challenges AI agents to explore novel environments, acquire goals on the fly, build adaptable world models ... Missing: money 700K",
+    "host_name": "arcprize.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/AIToolsPerformance/comments/1s4zwap/arcagi3_is_live_first_interactive_agentic",
+    "name": "ARC-AGI-3 is live: first interactive agentic benchmark, top Kaggle",
+    "snippet": "ARC-AGI-3 is live: first interactive agentic benchmark, top Kaggle score is 0.25 and $700K grand prize untouched · Grand Prize: $700K for a 100% ... Missing: 700K | Show results with: 700K",
+    "host_name": "www.reddit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2603.24621v1",
+    "name": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence - arXiv",
+    "snippet": "We introduce ARC-AGI-3, an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which ... Missing: 700K | Show results with: 700K",
+    "host_name": "arxiv.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/blog/arc-agi-3-launch",
+    "name": "Announcing ARC-AGI-3 - ARC Prize",
+    "snippet": "ARC Prize 2026 - $2,000,000 in prizes - Two competitions, two benchmarks, one goal: close the gap between human and artificial intelligence ... Missing: money leaderboard evaluation 700K",
+    "host_name": "arcprize.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

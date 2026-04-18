@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arcprize.org/arc-agi/3",
+    "name": "ARC-AGI-3",
+    "snippet": "ARC-AGI-3 is an interactive reasoning benchmark which challenges AI agents to explore novel environments, acquire goals on the fly, build adaptable world models ... Missing: architecture LLM sorties submission",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/fr/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark | DataCamp",
+    "snippet": "Learn how to install SuperAGI with Docker, understand its ReAct-based agent architecture, and explore how it compares to newer frameworks like ...",
+    "host_name": "www.datacamp.com",
+    "rank": 1,
+    "date": "Apr 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/arcprize/ARC-AGI-3-Agents",
+    "name": "arcprize/ARC-AGI-3-Agents - GitHub",
+    "snippet": "Copy . · Get an API key from the ARC-AGI-3 Website and set it as an environment variable in your . · Run ... Missing: architecture LLM sorties docker",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "The ARC-AGI-3 documentation covers the SDK, game environments, and how to build and submit agents. View ARC-AGI-3 Docs. Prizes - $850K Total. ARC Prize 2026 ARC ... Missing: architecture LLM sorties",
+    "host_name": "arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.hada.io/topic?id=27890",
+    "name": "ARC-AGI-3 - 최초의 대화형 추론 벤치마크 - GeekNews",
+    "snippet": "ARC-AGI-3는 AI 에이전트의 인간 수준 지능을 측정하기 위한 최초의 상호작용형 추론 벤치마크로, 환경 탐색과 적응 학습 능력을 평가함; 모든 과제는 인간이 해결 ...",
+    "host_name": "news.hada.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.24621",
+    "name": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence - arXiv",
+    "snippet": "We introduce ARC-AGI-3, an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which ...",
+    "host_name": "arxiv.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.arcprize.org",
+    "name": "ARC-AGI-3 Quickstart - ARC-AGI-3 Docs",
+    "snippet": "ARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI Agent's ability to generalize in novel, unseen environments. Missing: architecture LLM explorer submission",
+    "host_name": "docs.arcprize.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3ll4i/introducing_arcagi3",
+    "name": "Introducing ARC-AGI-3 : r/LocalLLaMA - Reddit",
+    "snippet": "ARC-AGI-3 gives us a formal measure to compare human and AI skill acquisition efficiency. Humans don't brute force - they build mental ... Missing: planner explorer interactive submission docker",
+    "host_name": "www.reddit.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.arcprize.org/toolkit/overview",
+    "name": "ARC-AGI Toolkit Quickstart - ARC-AGI-3 Docs",
+    "snippet": "The ARC-AGI Toolkit is an open-source Python SDK for ARC-AGI-3 environments, geared towards researchers looking to make progress on ARC-AGI-3. Missing: architecture LLM planner explorer sorties submission",
+    "host_name": "docs.arcprize.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mindstudio.ai/blog/what-is-arc-agi-3-interactive-benchmark-2",
+    "name": "What Is ARC AGI 3? The Interactive AI Benchmark Humans Solve at",
+    "snippet": "ARC AGI 3 is a video game-style benchmark where humans score 100% and every frontier AI model scores 0%. Here's how it works and why it ...",
+    "host_name": "www.mindstudio.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

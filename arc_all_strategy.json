@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "ARC Prize 2026 ARC-AGI-3 winners will be determined by participants' agent performance across the ARC-AGI-3 game environments. Grand Prize (100%) - $700K. Missing: timeline | Show results with: timeline",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/sarcasmos/arc-prize-2026-paper-track-analysis",
+    "name": "ARC Prize 2026 Paper Track Analysis - Kaggle",
+    "snippet": "This notebook provides: Visual analysis of competition structure and evaluation criteria; Timeline visualization and milestone planning; Strategic ...",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "Key Dates ; March 25, 2026 - Competition starts ; June 30, 2026 - ARC-AGI-3 Milestone #1 ; September 30, 2026 - ARC-AGI-3 Milestone #2 ; November 2, 2026 - ... Missing: timeline strategy",
+    "host_name": "arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark | DataCamp",
+    "snippet": "Overview of ARC Prize 2026 competition showing three tracks and their prize allocations. ARC Prize 2026 competition prize structure. Image by ...",
+    "host_name": "www.datacamp.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2603.24621",
+    "name": "[PDF] ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence - arXiv",
+    "snippet": "The ARC Prize 2025 competition ran on the ARC-AGI-2 benchmark, released in March 2025. It drew 1,455 teams and 90 paper submissions. NVIDIA's ...",
+    "host_name": "arxiv.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 - Kaggle",
+    "snippet": "Timeline ; March 25, 2026 - Start Date. ; October 26, 2026 - Entry Deadline. You must accept the competition rules before this date in order to compete. ; October ... Missing: strategy | Show results with: strategy",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sanj.dev/post/arcprize-leaderboard",
+    "name": "ARC-AGI Leaderboard 2026: The Truth About AI Reasoning Costs",
+    "snippet": "The definitive guide to the ARC-AGI (ARC Prize) leaderboard. Compare AI models by abstract reasoning capability, cost-per-task, ...",
+    "host_name": "sanj.dev",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://x.com/ycombinator/status/2036884595946516956",
+    "name": "RT @mikeknoop: ARC-AGI-3 and ARC Prize 2026 are now live with",
+    "snippet": "ARC-AGI-3 and ARC Prize 2026 are now live with $2,000,000 in prizes! As of today, version 3 is the world's only unsaturated agentic ...",
+    "host_name": "x.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://evoailabs.medium.com/arc-prize-presentation-on-arc-agi-3-e949d01d42ff",
+    "name": "ARC Prize Presentation on ARC AGI 3 | by evoailabs | Apr, 2026",
+    "snippet": "ARC Prize 2026: $2M competition hosted on Kaggle with two tracks: ... ARC AGI 3 shifts from static puzzle-solving to measuring autonomous, sample- ... Missing: timeline strategy",
+    "host_name": "evoailabs.medium.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3T4OwBp6d90",
+    "name": "Interactive Reasoning Benchmarks | ARC-AGI-3 Preview - YouTube",
+    "snippet": "Just played with the games, they are not so easy but eventually I managed to pass them all. But the design of games, especially the traps ... Missing: competitions comparison strategy best approach",
+    "host_name": "www.youtube.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

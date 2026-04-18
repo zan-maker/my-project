@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arcprize.org/guide",
+    "name": "Guide",
+    "snippet": "Learn the task format , data structure, development tools, and solution approaches for the original ARC - AGI benchmark format . Read the Guide. ARC - AGI - 3 game demo .",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/arc-agi/3",
+    "name": "ARC-AGI-3",
+    "snippet": "ARC-AGI-3 is an interactive reasoning benchmark which challenges AI agents to explore novel environments, acquire goals on the fly, build adaptable world models ...",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark",
+    "snippet": "3 Apr 2026 — How is ARC-AGI-3 different from ARC-AGI-2? ARC-AGI-2 uses static input-output puzzles ; ARC-AGI-3 uses live, interactive environments where ...",
+    "host_name": "www.datacamp.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf",
+    "name": "arXiv:submit/7403127 [cs.AI] 24 Mar 2026",
+    "snippet": "24 Mar 2026 — We introduce ARC - AGI - 3 , an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which ... 21 pages",
+    "host_name": "arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mindstudio.ai/blog/what-is-arc-agi-3-interactive-benchmark-2",
+    "name": "What Is ARC AGI 3? The Interactive AI Benchmark Humans",
+    "snippet": "30 Mar 2026 — ARC AGI 3 uses an interactive, game-like format — unlike earlier ARC benchmarks, tasks require discovering rules through action and observation, ...",
+    "host_name": "www.mindstudio.ai",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ivopbernardo.medium.com/the-new-benchmark-where-the-best-ai-in-the-world-scores-0-37-4b4c6a1b6c3a",
+    "name": "The New Benchmark Where the Best AI in the World Scores",
+    "snippet": "ARC-AGI-3 is a fundamentally different kind of test . Instead of static input-output grid puzzles, it presents interactive turn-based ...",
+    "host_name": "ivopbernardo.medium.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2603.24621v1",
+    "name": "ARC-AGI-3: A New Challenge for Frontier Agentic",
+    "snippet": "24 Mar 2026 — We introduce ARC - AGI - 3 , an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which ...",
+    "host_name": "arxiv.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/arc-agi",
+    "name": "What is ARC-AGI?",
+    "snippet": "ARC-AGI focuses on fluid intelligence (the ability to reason, solve novel problems, and adapt to new situations) rather than crystallized intelligence.",
+    "host_name": "arcprize.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/singularity/comments/1s3ihv3/arc_agi_3_scores_are_not_calculated_the_same_way",
+    "name": "ARC AGI 3 scores are not calculated the same way as",
+    "snippet": "Note that since each level has a score from 0% to 100% (aka if an AI is more efficient than the human, they will only get a score of 100% and ...",
+    "host_name": "www.reddit.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/alfredoquintana_arc-agi-3-activity-7445821328198299649-gScd",
+    "name": "ARC-AGI-3 Benchmark: Human Reasoning vs AI",
+    "snippet": "... game . That's the point. The format is disarmingly simple: you're dropped into an interactive grid -based environment. No instructions. No ...",
+    "host_name": "www.linkedin.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

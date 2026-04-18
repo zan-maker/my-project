@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arcprize.org/arc-agi/3/leaderboard",
+    "name": "ARC-AGI-3 Human Leaderboard",
+    "snippet": "This leaderboard ranks the top humans who have completed the most games in the fewest actions. Scores are derived from dissecting each game across many ... Missing: current teams approaches best",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/leaderboard",
+    "name": "Leaderboard - ARC Prize",
+    "snippet": "ARC-AGI-3 Leaderboard ... These represent purpose-built, efficient methods specifically designed for the ARC Prize. Missing: teams | Show results with: teams",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark | DataCamp",
+    "snippet": "ARC-AGI-1 is approaching saturation, with top models now scoring well above 90%. The drop to sub-1% on ARC-AGI-3 suggests that the capabilities ...",
+    "host_name": "www.datacamp.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2603.24621v1",
+    "name": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence - arXiv",
+    "snippet": "We introduce ARC-AGI-3, an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which ...",
+    "host_name": "arxiv.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ivopbernardo.medium.com/the-new-benchmark-where-the-best-ai-in-the-world-scores-0-37-4b4c6a1b6c3a",
+    "name": "The New Benchmark Where the Best AI in the World Scores 0.37%",
+    "snippet": "The 2026 ARC Prize competition runs on Kaggle with a $2M prize pool across two tracks: ARC-AGI-3 (the new challenge) and ARC-AGI-2 (final year, ...",
+    "host_name": "ivopbernardo.medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/arc-agi/3",
+    "name": "ARC-AGI-3",
+    "snippet": "ARC-AGI-3 is an interactive reasoning benchmark which challenges AI agents to explore novel environments, acquire goals on the fly, build adaptable world models ... Missing: teams approaches work best",
+    "host_name": "arcprize.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3ll4i/introducing_arcagi3",
+    "name": "Introducing ARC-AGI-3 : r/LocalLLaMA - Reddit",
+    "snippet": "ARC-AGI-3 gives us a formal measure to compare human and AI skill acquisition efficiency. Humans don't brute force - they build mental ...",
+    "host_name": "www.reddit.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mindstudio.ai/blog/what-is-arc-agi-3-interactive-benchmark",
+    "name": "What Is ARC AGI 3? The Interactive AI Benchmark Humans Solve at",
+    "snippet": "ARC AGI 3 is the first interactive AGI benchmark where AI scores under 1% while humans hit 100%. Here's how it works and what it reveals about ...",
+    "host_name": "www.mindstudio.ai",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://deniseholt.us/arc-agi-3-we-didnt-expect-this-to-happen",
+    "name": "ARC AGI 3: We Didn't Expect This to Happen - Denise Holt",
+    "snippet": "ARC-AGI 3 unverified LIVE leaderboard on March 15, 2026 displaying AIX Global Innovations' Seed IQ placing 4th under the top three human scores.",
+    "host_name": "deniseholt.us",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/singularity/comments/1mnib67/interactive_reasoning_benchmarks_arcagi3_preview",
+    "name": "Interactive Reasoning Benchmarks | ARC-AGI-3 Preview : r/singularity",
+    "snippet": "97 votes, 14 comments. Hell yeah - this guy knows what's doing. \"General intelligence\" is never about being really good at math, ... Missing: teams approaches",
+    "host_name": "www.reddit.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://arcprize.org/arc-agi/3",
+    "name": "ARC-AGI-3",
+    "snippet": "ARC-AGI-3 is the first interactive reasoning benchmark for AI agents—play as humans and build agents that learn in novel environments.\nARC-AGI-3 is the first interactive reasoning benchmark for AI agents—play as humans and build agents that learn in novel environments. Missing: sorties | Show results with: sorties",
+    "host_name": "arcprize.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "The ARC-AGI-3 documentation covers the SDK, game environments, and how to build and submit agents . View ARC-AGI-3 Docs. Prizes - $850K Total. ARC Prize 2026 ARC ...\nThe ARC-AGI-3 track challenges participants to build AI agents that interact with novel environments, where no instructions are provided. ARC-AGI-3 is the ... Missing: sorties | Show results with: sorties",
+    "host_name": "arcprize.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.datacamp.com/blog/arc-agi-3",
+    "name": "ARC-AGI-3: The New Interactive Reasoning Benchmark",
+    "snippet": "3 Apr 2026 — It measures whether an AI agent can explore an unfamiliar environment , figure out the rules, identify what \"winning\" looks like, and then act on ...",
+    "host_name": "www.datacamp.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.arcprize.org",
+    "name": "ARC-AGI-3 Quickstart",
+    "snippet": "ARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI Agent's ability to generalize in novel, unseen environments.",
+    "host_name": "docs.arcprize.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/arcprize/ARC-AGI-3-Agents/blob/main/README.md",
+    "name": "README.md - arcprize/ARC-AGI-3-Agents",
+    "snippet": "Contest Submission . To submit your agent for the ARC - AGI - 3 competition, please use this form: https://forms.gle/wMLZrEFGDh33DhzV9. Contributing. We welcome ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "ARC - AGI - 3 . Interactive reasoning benchmark. Prizes for top-performing AI ... - Submissions due; November 8, 2026 - Papers due; December 4, 2026 - Results ...",
+    "host_name": "arcprize.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/guide",
+    "name": "Guide",
+    "snippet": "The first interactive reasoning benchmark. Build AI agents that explore, plan , and adapt within novel game environments . View ARC - AGI - 3 Docs.",
+    "host_name": "arcprize.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/arc-agi-3-preview-agents",
+    "name": "ARC-AGI-3 Preview Agent Competition",
+    "snippet": "ARC-AGI-3 Preview Agent Competition . A 30-day developer competition to build agents that could solve ARC-AGI-3 Preview's interactive reasoning games.",
+    "host_name": "arcprize.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3",
+    "snippet": "Submission files are automatically calculated. As long as the agent takes action on any of the games , a submission file for all of the games is created.",
+    "host_name": "www.kaggle.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/html/2512.24156v1",
+    "name": "Graph-Based Exploration for ARC-AGI-3 Interactive Reasoning Tasks",
+    "snippet": "We present a training-free graph-based approach for solving interactive reasoning tasks in the ARC-AGI-3 benchmark. ARC-AGI-3 comprises game- ...",
+    "host_name": "arxiv.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

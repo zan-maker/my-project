@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 - Kaggle",
+    "snippet": "October 26, 2026 - Entry Deadline. You must accept the competition rules before this date in order to compete. October 26, 2026 - Team Merger Deadline. This is ...\nThe ARC-AGI-3 evaluation environment is designed so systems can't just memorize solutions. Tasks take place in hidden, interactive environments that require ...",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/rules",
+    "name": "ARC Prize 2026 - ARC-AGI-3 | Kaggle",
+    "snippet": "The Competition named below is a skills-based competition to promote and further the field of data science. You must register via the Competition Website to ...\nSee below for the complete Competition Rules. For Hackathon Competitions, your Submissions will be judged by the Competition Sponsor based on the evaluation ...",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026/arc-agi-3",
+    "name": "ARC Prize 2026 - ARC-AGI-3 Competition",
+    "snippet": "ARC Prize 2026 ARC-AGI-3 winners will be determined by participants' agent performance across the ARC-AGI-3 game environments. Grand Prize (100%) - $700K.\nAwarded to the first eligible agent that scores 100% on the ARC-AGI-3 evaluation. If not won, the Grand Prize will continue during the next annual competition.",
+    "host_name": "arcprize.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+    "name": "ARC Prize 2026 - Paper Track | Kaggle",
+    "snippet": "November 9, 2026 - Final Submission Deadline. All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition ...\nTo be eligible to win the ARC 2026 Paper Award Prize, you must join this competition and submit a Writeup that documents your solution for ...",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org/competitions/2026",
+    "name": "ARC Prize 2026",
+    "snippet": "Key Dates ; March 25, 2026 - Competition starts ; June 30, 2026 - ARC-AGI-3 Milestone #1 ; September 30, 2026 - ARC-AGI-3 Milestone #2 ; November 2, 2026 - ... Missing: format | Show results with: format\nThe primary mission of ARC Prize is to accelerate progress toward open Artificial General Intelligence (AGI) by making cutting-edge solutions freely available ... Missing: format | Show results with: format",
+    "host_name": "arcprize.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/data",
+    "name": "ARC Prize 2026 - ARC-AGI-3 | Kaggle",
+    "snippet": "ARC-AGI-3 is an Interactive Reasoning Benchmark designed to measure an AI agent's ability to generalize in novel, unseen environments. Missing: format deadline\nNote: Competition evaluation uses a separate, private set of 110 games that your agent has never seen. Half of these are used for the Public Leaderboard score, ... Missing: format | Show results with: format",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/code",
+    "name": "ARC Prize 2026 - ARC-AGI-3 | Kaggle",
+    "snippet": "ARC Prize 2026 - ARC-AGI-3. Create an AI capable of fluid intelligence. Join Competition. more_horiz. ARC Prize 2026 - ARC-AGI-3. Missing: deadline | Show results with: deadline",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+    "name": "ARC Prize 2026 - ARC-AGI-2 - Kaggle",
+    "snippet": "November 2, 2026 - Final Submission Deadline. December 4, 2026 - Winners announcement. All deadlines are at 11:59 PM UTC on the corresponding day unless ...",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arcprize.org",
+    "name": "ARC Prize",
+    "snippet": "ARC Prize Foundation is a nonprofit advancing open-source artificial general intelligence research through benchmarks & prizes. Enter ARC Prize 2026 Now ... Missing: rules evaluation format deadline",
+    "host_name": "arcprize.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3/discussion/690676",
+    "name": "ARC Prize 2026 - ARC-AGI-3 | Kaggle",
+    "snippet": "Planner: Specifying in a new unsolved level through 'mental' simulation with current understanding, a solution in the form of sorties or subgoals or milestones. Missing: evaluation deadline\nPlanner: Specifying in a new unsolved level through 'mental' simulation with current understanding, a solution in the form of sorties or subgoals or milestones. Missing: evaluation | Show results with: evaluation",
+    "host_name": "www.kaggle.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

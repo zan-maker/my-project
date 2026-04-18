@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://x.com/kaggle/highlights",
+    "name": "Kaggle (@kaggle) / Highlights / X",
+    "snippet": "ARC-AGI-3 : Tackle a harder interactive benchmark that requires exploration and multi-step reasoning. ARC Prize 2026 - ARC-AGI-3 .",
+    "host_name": "x.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/595424764221375/posts/2286136908483477",
+    "name": "📢 **Meta releases new resources for AI agent research**",
+    "snippet": "ARC-AGI-3 is basically an IQ test for machines. You drop an agent into a game it's never seen before, no instructions, no hints, no training ...",
+    "host_name": "www.facebook.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ngrok.com/blog/ai-benchmarks",
+    "name": "What those AI benchmark numbers mean | ngrok blog",
+    "snippet": "29 Jan 2026 — Each task has a description of what to do and a Dockerfile that creates the environment to do it in. ... ARC-AGI 3 tasks. ← Prev← back to top",
+    "host_name": "ngrok.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/SalvatoreRa/ML-news-of-the-week",
+    "name": "SalvatoreRa/ML-news-of-the-week: A collection",
+    "snippet": "Unlike static tests, ARC-AGI-3 uses dynamic game environments to assess how well AI can learn through experience—mimicking the way humans develop competence ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://mirrors.aliyun.com/pypi/simple",
+    "name": "Simple Index",
+    "snippet": "arc-agi-core · arc-agi-dsl · arc-agi-llm · arc-ai · arc-alkali-rydberg-calculator · arc- api · arc-atlas · arc-cache · arc-cli · arc-context · arc- ...",
+    "host_name": "mirrors.aliyun.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "http://sungsoo.github.io",
+    "name": "main page for sungsoo blog",
+    "snippet": "October 25, 2025 » AI Agents + LLM Reasoning; October 24, 2025 » ARC-AGI-3 and Action Efficiency - ARC Prize @ MIT; October 23, 2025 » Graph Learning Meets ...",
+    "host_name": "sungsoo.github.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://radicaldatascience.wordpress.com/category/big-data",
+    "name": "Big Data | Radical Data Science",
+    "snippet": "Write your agent and create your environment locally, and we'll run them ... ARC-AGI-3 is designed to measure AI system generalization and intelligence ...",
+    "host_name": "radicaldatascience.wordpress.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://music.amazon.com/es-us/podcasts/3bfeec8c-45b7-48d7-aff4-fac820c73551/thursdai---the-top-ai-news-from-the-past-week",
+    "name": "Podcast ThursdAI - The top AI news from the past week",
+    "snippet": "... Arc-AGI 3 a series of puzzle games, where humans get 100% pass-rate and the current LLM, top tier frontier LLMs, are getting less than 1%! It's an ...",
+    "host_name": "music.amazon.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://scouts.yutori.com/e8ae56ef-f922-4f7f-af6f-1985302d3e26",
+    "name": "Agentic search and startup ecosystems",
+    "snippet": "5 Apr 2026 — ARC-AGI-3 debuts as an interactive reasoning benchmark for agents to test exploration, goal acquisition, planning, memory, adaptation, and ...",
+    "host_name": "scouts.yutori.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://podtail.com/podcast/the-top-ai-news-from-the-past-week-every-thursdai",
+    "name": "ThursdAI - The top AI news from the past week – Podcast",
+    "snippet": "... ARC-AGI-3 . The back to back this week can give anyone whiplash. First, Lex Friedman had Jensen Huang on the podcast, and asked him a very specific “WhenAGI ...",
+    "host_name": "podtail.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
