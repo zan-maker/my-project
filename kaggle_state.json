@@ -1,0 +1,118 @@
+{
+  "cookies": [
+    {
+      "name": "ka_sessionid",
+      "value": "600dc329c2b81fcff3bd51440b9b051f",
+      "domain": "www.kaggle.com",
+      "path": "/",
+      "expires": 1779140007.695446,
+      "size": 44,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "GCLB",
+      "value": "CMTSrJDIgemPkQEQAw",
+      "domain": "www.kaggle.com",
+      "path": "/",
+      "expires": -1.0,
+      "size": 22,
+      "httpOnly": true,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "CSRF-TOKEN",
+      "value": "CfDJ8CS0IeAoHcJGgSEc27rBbk4xyZXPqYU2mtEiLxLreWQX8_09zr34SqvG5Ouz1jYn1XG-XTAy9k1psWELsUUqIA_tuQWwNGoT8V3v4R5vzw",
+      "domain": "www.kaggle.com",
+      "path": "/",
+      "expires": -1.0,
+      "size": 120,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "CfDJ8CS0IeAoHcJGgSEc27rBbk6T5hU0CFlpkixtVAZie7GRzmGhSa0IbjsydePl2hJkj16vWfgMT6QJItYdcoHHqzryBLgYFFYXrwEQM4IGMNW-UA",
+      "domain": "www.kaggle.com",
+      "path": "/",
+      "expires": -1.0,
+      "size": 124,
+      "httpOnly": false,
+      "secure": true,
+      "session": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "CLIENT-TOKEN",
+      "value": "eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpc3MiOiJrYWdnbGUiLCJhdWQiOiJjbGllbnQiLCJzdWIiOiIiLCJuYnQiOiIyMDI2LTA0LTE4VDExOjU3OjI3LjgwOTE3ODhaIiwiaWF0IjoiMjAyNi0wNC0xOFQxMTo1NzoyNy44MDkxNzg4WiIsImp0aSI6ImJiNzdkMWUzLWE1ODktNGJiNC1hNDlkLWRiMzM5YjM5Zjk0NCIsImV4cCI6IjIwMjYtMDUtMThUMTE6NTc6MjcuODA5MTc4OFoiLCJhbm9uIjp0cnVlLCJmZmgiOiJmYjdmNTk2OTRmN2Y1N2VhMjlmZTFjMmVhYWQ4YzExMGQ3YzE2Nzc4ODI2M2JjNTc0ZWRjNTgzZmNiZDVlMWQ4IiwicGlkIjoia2FnZ2xlLTE2MTYwNyIsInN2YyI6IndlYi1mZSIsInNkYWsiOiJBSXphU3lBNGVOcVVkUlJza0pzQ1pXVnotcUw2NTVYYTVKRU1yZUUiLCJibGQiOiJhMTIxN2YxNTRjOTFlYzdjZDE2MDJmZDk3N2MxYmMzMzQ3ZTFhMThiIn0.",
+      "domain": "www.kaggle.com",
+      "path": "/",
+      "expires": -1.0,
+      "size": 604,
+      "httpOnly": false,
+      "secure": true,
+      "session": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1250351371.1776513448",
+      "domain": ".kaggle.com",
+      "path": "/",
+      "expires": 1811073448.491495,
+      "size": 30,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "_ga_T7QHS60L4Q",
+      "value": "GS2.1.s1776513448$o1$g1$t1776513448$j60$l0$h0",
+      "domain": ".kaggle.com",
+      "path": "/",
+      "expires": 1811073448.640786,
+      "size": 59,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "build-hash",
+      "value": "a1217f154c91ec7cd1602fd977c1bc3347e1a18b",
+      "domain": "www.kaggle.com",
+      "path": "/",
+      "expires": -1.0,
+      "size": 50,
+      "httpOnly": false,
+      "secure": false,
+      "session": true
+    },
+    {
+      "name": "NID",
+      "value": "530=JtKfL2vp7JrZz8B4_SyDUll1JT5x62a7yDaPzweVvXa8zaNy__7oI7HnL8EyFux6lqYlMNjxM3oAXn_D5JAuLACGcH7CQpS9owWxOPqf-FDnEIWJZTg0NbI0QJEKJz6eO97jsYYMGrHd5Xn4Tc_T3XE6PhGtunuBNNtkPlgjZoaHQIj7XW-2sDoSFKQu0anGa7Vpv-QtveHigfG7",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1792324649.103764,
+      "size": 215,
+      "httpOnly": true,
+      "secure": false,
+      "session": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.kaggle.com",
+      "localStorage": [
+        {
+          "name": "KAGGLE_FEATURE_FLAGS",
+          "value": "{\"hash\":\"fb7f59694f7f57ea29fe1c2eaad8c110d7c167788263bc574edc583fcbd5e1d8\",\"flags\":[\"KernelsOpenInColabLocalUrl\",\"StsDownload\",\"NotificationsBenchmark\",\"AddTaskToBenchmark\",\"BenchmarkRunIndividualTask\",\"EnableAgentSatsFe\",\"BenchmarkProvenance\",\"RequirePersonaVerificationForBenchmarks\",\"HackathonCompetitionCloning\",\"KernelsGooseMode\",\"BenchmarkTaskImportModels\",\"BenchmarksCrossUserTaskRuns\",\"BenchmarkTaskCreation\",\"KernelsFirebaseLongPolling\",\"FrontendErrorReporting\",\"AllowForumAttachments\",\"TermsOfServiceBanner\",\"DatasetUploaderDuplicateDetection\"],\"values\":{\"HackathonDisableFileUploadsCompIds\":\"121144\",\"ModelsDisableGatedAccessModelIds\":\"188868, 121027,91102,39106,121030\",\"GameArenaFeaturedEpisodes\":\"{\\\"180\\\": [74920626, 74923653, 74915408], \\\"844\\\": [74954901, 74954774, 74954984], \\\"443\\\": [74833179, 74833087], \\\"349\\\": [74784960, 74692665, 74690392], \\\"436\\\": [73948703, 73948385, 73948222]}\",\"SpotlightCommunityCompetition\":\"136475 ,136721, 113155,106680,106809,117462,126777,127282, 124685, 125799, 127283, 130287, 129872, 129871,132732,131778,135157,134719\",\"FeaturedBenchmarks\":\"996,264, 201, 152\",\"HackathonCountdownTimerHours\":\"24\",\"GettingStartedCompetitions\":\"3136,5407,86518,34377\",\"StsMinFiles\":\"200000\",\"StsMinGb\":\"2\",\"CommunityBenchmarkShelf\":\"2138, 2406, 388, 2863\",\"PersonalBenchmarksPriorityTaskIds\":\"\",\"ClientRpcRateLimitQps\":\"40\",\"ClientRpcRateLimitQpm\":\"500\",\"AddFeatureFlagsToPageLoadTag\":\"disabled\",\"KernelEditorAutosaveThrottleMs\":\"30000\",\"GameArenaBenchmarkVersions\":\"844,180,443,437\",\"KernelsL4GpuComps\":\"133469\",\"FeaturedCommunityCompetitions\":\"130287\",\"FeaturedGameArenaBenchmarkConfig\":\"{\\\"POKER\\\": 180, \\\"CHESS\\\": 437, \\\"WEREWOLF\\\": 443, \\\"CONNECT_X\\\": 844}\",\"EmergencyAlertBanner\":\"{ \\\"banners\\\": [ { \\\"bannerId\\\": \\\"leonardo-issue-2026-03-20\\\", \\\"messageHtml\\\": \\\"This competition is currently paused for review. Thank you for your patience.\\\", \\\"uriPathRegex\\\": \\\"^/competitions/leonardo-airborne-object-recognition-challenge.*\\\" } ] }\",\"CompetitionMetricTimeoutMinutes\":\"30\",\"DatasetsSendPendingSuggestionsRemindersBatchSize\":\"100\",\"EmergencyAlertBannerForUserProfile\":\"\",\"ResourceDirectSharingLimit\":\"25\",\"KernelsMaxDataSources\":\"50\",\"EnableCdnCache\":\"\",\"HttpGetEnabledRpcs\":\"\",\"KernelsPayToScaleProPlusGpuHours\":\"30\",\"KernelsPayToScaleProGpuHours\":\"15\",\"GameArenaFeaturedLeaderboardBenchmarkVersions\":\"844,180,443,349,436\",\"CdnCacheDisabledRpcs\":\"\",\"KernelsRtxPro6000Comps\":\"129716\",\"KernelsH100Comps\":\"118448\"}}"
+        }
+      ],
+      "sessionStorage": []
+    }
+  ]
+}
