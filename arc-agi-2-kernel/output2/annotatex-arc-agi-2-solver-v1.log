@@ -1,0 +1,26 @@
+[{"stream_name":"stdout","time":0.761876355,"data":"Loading ARC-AGI-2 test data...\n"}
+,{"stream_name":"stdout","time":0.762599785,"data":"Data directory: /kaggle/input/competitions/arc-prize-2026-arc-agi-2\n"}
+,{"stream_name":"stdout","time":0.808561822,"data":"Loaded 240 test tasks\n"}
+,{"stream_name":"stdout","time":0.808592572,"data":"Initializing AnnotateX solver...\n"}
+,{"stream_name":"stdout","time":0.891365397,"data":"  Progress: 50/240...\n"}
+,{"stream_name":"stdout","time":0.98248457,"data":"  Progress: 100/240...\n"}
+,{"stream_name":"stdout","time":1.059510728,"data":"  Progress: 150/240...\n"}
+,{"stream_name":"stdout","time":1.148063111,"data":"  Progress: 200/240...\n"}
+,{"stream_name":"stdout","time":1.215853812,"data":"\n"}
+,{"stream_name":"stdout","time":1.215881581,"data":"==================================================\n"}
+,{"stream_name":"stdout","time":1.215885972,"data":"AnnotateX ARC-AGI-2 Solver v1 Results\n"}
+,{"stream_name":"stdout","time":1.215889181,"data":"==================================================\n"}
+,{"stream_name":"stdout","time":1.2158928119999999,"data":"Total tasks: 240\n"}
+,{"stream_name":"stdout","time":1.215895812,"data":"Heuristic-solved: 25 (10.4%)\n"}
+,{"stream_name":"stdout","time":1.215898901,"data":"Fallback (copy input): 215\n"}
+,{"stream_name":"stdout","time":1.25577577,"data":"\n"}
+,{"stream_name":"stdout","time":1.25580084,"data":"Submission saved to: /kaggle/working/submission.json\n"}
+,{"stream_name":"stdout","time":1.2621640379999999,"data":"File size: 362326 bytes\n"}
+,{"stream_name":"stdout","time":1.262187698,"data":"Done!\n"}
+,{"stream_name":"stderr","time":3.280729642,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":3.280770062,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":3.523641011,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":3.523664311,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":4.566063613,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":5.630910439,"data":"[NbConvertApp] Writing 361261 bytes to __results__.html\n"}
+]

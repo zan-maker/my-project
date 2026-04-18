@@ -1,0 +1,13 @@
+[{"stream_name":"stdout","time":1.435127653,"data":"Loading ARC-AGI-2 test data...\n"}
+,{"stream_name":"stderr","time":1.435369256,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":1.435412407,"data":"  File \"/kaggle/src/script.py\", line 16, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":1.435567573,"data":"    with open('/kaggle/input/arc-prize-2026-arc-agi-2/arc-agi_test_challenges.json') as f:\n"}
+,{"stream_name":"stderr","time":1.4358284669999999,"data":"         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":1.435850691,"data":"FileNotFoundError: [Errno 2] No such file or directory: '/kaggle/input/arc-prize-2026-arc-agi-2/arc-agi_test_challenges.json'\n"}
+,{"stream_name":"stderr","time":4.438952065,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":4.438993979,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":4.882442394,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":4.882480394,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6.762685663,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":8.572606935,"data":"[NbConvertApp] Writing 358017 bytes to __results__.html\n"}
+]
