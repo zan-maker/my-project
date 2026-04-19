@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://docs.codemod.com/cli",
+    "name": "Codemod CLI",
+    "snippet": "Scaffold, publish, and run codemod projects, recipes, or packages from your terminal using Codemod's open-source CLI. Missing: 2024 2025",
+    "host_name": "docs.codemod.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.codemod.com/platform/registry",
+    "name": "Codemod Registry",
+    "snippet": "The Codemod Registry is a centralized repository for discovering, consuming, and distributing Codemod packages. It enables the community to share reusable ... Missing: format building 2024 2025",
+    "host_name": "docs.codemod.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codemod.com",
+    "name": "Codemod",
+    "snippet": "Codemod is Mission Control for specialized coding agents, using compiler-aware code graphs to automate and orchestrate code maintenance at enterprise scale. Missing: CLI publish format 2024 2025",
+    "host_name": "codemod.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codemod.com/blog/new-codemod-cli",
+    "name": "Introducing the new Codemod CLI",
+    "snippet": "We're excited to announce the launch of the new Codemod CLI; your all-in-one toolkit for automating large-scale code transformations, ... Missing: npx publish format 2024",
+    "host_name": "codemod.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/codemod/codemod",
+    "name": "Codemod - GitHub",
+    "snippet": "This repo houses the Codemod CLI and its underlying workflow engine – everything you need to scaffold, test, and run codemods locally or in CI. The CLI can also ... Missing: format 2024 2025",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://app.codemod.com/registry",
+    "name": "Registry - Codemod",
+    "snippet": "Registry. Explore community-led codemods to migrate, optimize, and transform your codebase. Search for packages. Search for packages. Missing: CLI npx building 2024 2025",
+    "host_name": "app.codemod.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://classic.yarnpkg.com/en/package/codemod",
+    "name": "codemod - Yarn Classic",
+    "snippet": "Package Management ; npx codemod publish [path], Publish package to the Codemod Registry ; npx codemod login, Authenticate with the registry (browser or API key).",
+    "host_name": "classic.yarnpkg.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codemod.com/blog/writing-codemods-like-a-pro",
+    "name": "Writing Codemods Like a Pro",
+    "snippet": "How to test and publish your codemod using the Codemod CLI. Let's learn by example! Problem. Before ES6, JavaScript codebases relied heavily ... Missing: format 2024 2025",
+    "host_name": "codemod.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.codemod.com/changelog",
+    "name": "Product updates - Codemod.com",
+    "snippet": "Package Registry Overhaul: Publish, search, and download codemods with version pinning, download stats, and scoped visibility. Studio Interface Redesign: Tabbed ... Missing: 2024 | Show results with: 2024",
+    "host_name": "docs.codemod.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://app.codemod.com/registry/styledictionary/4/formatting-options",
+    "name": "styledictionary/4/formatting-options - Codemod Registry",
+    "snippet": "What Changed. This codemod updates file formats to accept options that influence output creation, with the options now nested under the options property. Missing: CLI codemods 2024 2025",
+    "host_name": "app.codemod.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

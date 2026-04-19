@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://codemod.com/blog/jssg",
+    "name": "Introducing jssg: a next-gen, multi-language codemod toolkit",
+    "snippet": "13 Oct 2025 — We built jssg ( JavaScript ast -grep), a modern successor to jscodeshift , powered by ast -grep. jssg keeps the familiar authoring model while ...",
+    "host_name": "codemod.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://jscodeshift.com/overview/introduction",
+    "name": "Introduction | jscodeshift",
+    "snippet": "jscodeshift is a toolkit for building and running codemods over multiple JavaScript or TypeScript files. It provides: A runner, which executes the provided ...",
+    "host_name": "jscodeshift.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.codemod.com/cli",
+    "name": "Codemod CLI",
+    "snippet": "Scaffold, publish, and run codemod projects, recipes, or packages from your terminal using Codemod's open-source CLI.",
+    "host_name": "docs.codemod.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/codemod/codemod",
+    "name": "Codemod",
+    "snippet": "Codemod is the AI-powered, community-led platform for automating code migrations, framework upgrades, and large-scale changes. This repo houses the Codemod ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/@aswinsrinivasan2004/jscodeshift-deep-dive-apis-cli-and-transforming-code-like-a-pro-904c51cbb77c",
+    "name": "jscodeshift Deep Dive: APIs, CLI, and Transforming Code",
+    "snippet": "In this post , I'll walk you through the most essential APIs and CLI features of jscodeshift , so you can confidently write your own codemods — ...",
+    "host_name": "medium.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codemod.com/blog/ts-morph-support",
+    "name": "Codemod AI Now Supports ts-morph",
+    "snippet": "16 May 2024 — This expansion empowers developers to tackle codebase modernization challenges using ts-morph alongside jscodeshift . Our experiments, using our ...",
+    "host_name": "codemod.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gitnation.com/contents/how-i-automated-code-changes-for-100-repositories-getting-started-with-codemods",
+    "name": "How I Automated Code Changes for 100 Repositories",
+    "snippet": "This Talk discusses automating code changes for Android repositories , utilizing tools like JSCodeShift and Abstract Syntax Tree. The speaker shares a real ...",
+    "host_name": "gitnation.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.carlrippon.com/codemods-for-react-typescript",
+    "name": "Codemods for React and TypeScript - Carl's Blog",
+    "snippet": "19 Jan 2022 — AST Explorer is a website that helps us understand the AST for some code. To configure AST Explorer for React and TypeScript , we select the ...",
+    "host_name": "www.carlrippon.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hub.decision.ai/skills/a5c-ai/codemod-generator",
+    "name": "a5c-ai/codemod-generator | Decision Hub",
+    "snippet": "13 Mar 2026 — This skill generates automated code migration scripts ( codemods ) that transform consumer code to use new API versions, reducing the burden of ...",
+    "host_name": "hub.decision.ai",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lik.ai/blog/writing-a-javascript-codemod-with-jscodeshift",
+    "name": "Writing a JavaScript Codemod with JSCodeShift",
+    "snippet": "13 Mar 2021 — Learn what is a codemod and how to write a JavaScript codemod with JSCodeShift to automate code refactoring at scale.",
+    "host_name": "lik.ai",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
