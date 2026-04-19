@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-v3-to-v4",
+  "version": "1.0.0",
+  "description": "Automated codemod to migrate Tailwind CSS from v3 to v4. Handles config migration, utility renaming, dark mode, CSS imports, and shadcn/ui compatibility.",
+  "keywords": ["tailwind", "tailwindcss", "v4", "migration", "codemod", "upgrade"],
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@codemod.com/jssg-types": "^1.5.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.4",
+    "typescript": "^5.7.0"
+  }
+}

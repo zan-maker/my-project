@@ -1,0 +1,121 @@
+# Tailwind CSS v3 → v4 Migration Workflow
+# Run with: npx codemod workflow run -w codemods/workflow.yaml -t /path/to/your/project
+# Or publish and run: npx codemod tailwindcss-v3-to-v4
+
+title: "Tailwind CSS v3 → v4 Migration"
+description: >
+  Automated migration from Tailwind CSS v3 to v4. Handles:
+  - tailwind.config.js/ts → CSS @theme migration
+  - PostCSS config update
+  - Dark mode: darkMode: "class" → @custom-variant
+  - Plugin migration (tailwindcss-animate → @import)
+  - Removed utility renaming (shadow, radius, blur, outline)
+  - focus:outline-none → focus:outline-hidden
+  - ring width normalization (ring → ring-3)
+  - gradient bg-gradient-to-* → bg-linear-to-*
+  - bg-gradient-to-r → bg-linear-to-r (old→new syntax)
+  - border color default fix
+  - placeholder-opacity-* → placeholder-black/white/*
+  - shadow-[] → shadow size scale (sm, md, lg, xl, 2xl, inner)
+  - rounded-[] → rounded radius scale (sm, md, lg, xl, 2xl, 3xl, full)
+  - blur-[] → blur scale (sm, md, lg, xl, 2xl, 3xl)
+  - opacity utilities (bg-opacity-*, text-opacity-*, etc.)
+  - space-between selector changes
+  - container query updates
+  - @tailwind directives → @import "tailwindcss"
+  - content array removal (auto-detected in v4)
+
+parameters:
+  - name: "dry-run"
+    description: "Preview changes without writing files"
+    type: "boolean"
+    default: false
+  - name: "verbose"
+    description: "Show detailed change log"
+    type: "boolean"
+    default: true
+
+steps:
+  # ── Phase 1: Config Migration ──────────────────────────────────────
+  - title: "Migrate tailwind.config to CSS @theme"
+    description: "Converts tailwind.config.js/ts theme extensions to CSS @theme blocks in globals.css"
+    engine: "jssg"
+    path: "codemods/migrate-config-to-css.ts"
+
+  # ── Phase 2: PostCSS Config ────────────────────────────────────────
+  - title: "Update PostCSS configuration"
+    description: "Replaces tailwindcss/autoprefixer plugins with @tailwindcss/postcss"
+    engine: "jssg"
+    path: "codemods/migrate-postcss-config.ts"
+
+  # ── Phase 3: CSS Import Migration ──────────────────────────────────
+  - title: "Replace @tailwind directives with @import"
+    description: "Converts @tailwind base/components/utilities to @import 'tailwindcss'"
+    engine: "jssg"
+    path: "codemods/migrate-css-imports.ts"
+
+  # ── Phase 4: Utility Renaming ──────────────────────────────────────
+  - title: "Rename removed/deprecated utilities"
+    description: "Updates shadow, rounded, blur, outline, ring, gradient, and opacity utilities"
+    engine: "jssg"
+    path: "codemods/rename-utilities.ts"
+
+  # ── Phase 5: Gradient Migration ────────────────────────────────────
+  - title: "Migrate gradient utilities"
+    description: "bg-gradient-to-* → bg-linear-to-*, bg-gradient-to-r → bg-linear-to-r"
+    engine: "jssg"
+    path: "codemods/migrate-gradients.ts"
+
+  # ── Phase 6: Dark Mode ─────────────────────────────────────────────
+  - title: "Migrate dark mode configuration"
+    description: "Adds @custom-variant dark directive, removes darkMode from config"
+    engine: "jssg"
+    path: "codemods/migrate-dark-mode.ts"
+
+  # ── Phase 7: Plugin Migration ──────────────────────────────────────
+  - title: "Migrate plugins to CSS imports"
+    description: "Converts plugin references (e.g. tailwindcss-animate) to CSS @import statements"
+    engine: "jssg"
+    path: "codemods/migrate-plugins.ts"
+
+  # ── Phase 8: Cleanup ──────────────────────────────────────────────
+  - title: "Remove deprecated config options"
+    description: "Removes content array, mode, prefix, important, separator from config"
+    engine: "jssg"
+    path: "codemods/cleanup-config.ts"
+
+  # ── Phase 9: Package Dependencies ──────────────────────────────────
+  - title: "Update package.json dependencies"
+    description: "Updates tailwindcss, postcss, autoprefixer versions in package.json"
+    engine: "shell"
+    command: |
+      echo "[INFO] Checking package.json for Tailwind v3 dependencies..."
+      # This step is informational — manual npm install required
+      echo "[INFO] Replace in package.json:"
+      echo '  "tailwindcss": "^3.x" → "tailwindcss": "^4.0"'
+      echo '  "postcss": "^8.x"  → keep'
+      echo '  "autoprefixer": "^10.x" → remove (auto-handled in v4)'
+      echo '  Add: "@tailwindcss/postcss": "^4.0"'
+      echo '  Run: npm install && npm uninstall autoprefixer'
+
+  # ── Phase 10: Report ──────────────────────────────────────────────
+  - title: "Generate migration report"
+    description: "Creates a summary of all changes made during migration"
+    engine: "shell"
+    command: |
+      echo "═══════════════════════════════════════════════"
+      echo "  Tailwind CSS v3 → v4 Migration Complete"
+      echo "═══════════════════════════════════════════════"
+      echo ""
+      echo "Post-migration checklist:"
+      echo "  1. Run: npm install @tailwindcss/postcss"
+      echo "  2. Run: npm uninstall autoprefixer (if present)"
+      echo "  3. Update: npm install tailwindcss@4"
+      echo "  4. Review: check globals.css @theme block"
+      echo "  5. Test: run dev server and verify UI"
+      echo "  6. Fix: check border colors (now default to currentColor)"
+      echo "  7. Fix: check ring widths (now 1px default, was 3px)"
+      echo "  8. Fix: check placeholder colors"
+      echo ""
+      echo "See: https://tailwindcss.com/docs/upgrade-guide"
+      echo "═══════════════════════════════════════════════"
